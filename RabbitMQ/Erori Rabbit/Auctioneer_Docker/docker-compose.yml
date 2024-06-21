@@ -1,0 +1,6 @@
+version: "3.4"
+services:
+        auctioneer:
+                build:
+                        context: .
+                network_mode: host

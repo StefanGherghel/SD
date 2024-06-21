@@ -1,0 +1,21 @@
+Să se creeze în Kotlin un server TCP care să facă o cerere (khttp)
+pentru simbolurile companiilor cu acțiuni (vezi documentația:
+https://finnhub.io/docs/api#stock-symbols) și folosind aceste
+simboluri precum și API-ul de știri despre o companie
+(https://finnhub.io/docs/api#company-news) să trimită știrile din ziua
+precedentă prin socket, câte o știre o dată la 3 secunde (pentru
+serializare/deserializare se pot utiliza funcțiile loads și dumps din
+modulul json din Python, iar în Kotlin se poate utiliza
+kotlinx.serialization
+https://github.com/Kotlin/kotlinx.serialization). De asemenea, se va
+implementa în Python un flux de date direct (direct stream) utilizând
+framework-ul Apache Spark (PySpark), care să preia datele de la
+serverul TCP și să le prelucreze astfel:
+- se vor filtra acele știri care folosesc o imagine PNG;
+- se vor filtra acele știri al căror URL nu depășește 80 de caractere;
+- pentru fiecare RDD în parte, se va afișa URL-ul corespunzător
+știrii, data și titlul.
+Există o limitare de 60 de apeluri / minut la fiecare cheie API. Se
+poate crea un cont pe platforma finnhub.io
+(https://finnhub.io/register), sau se poate utiliza următoarea cheie
+(token) API: brmrfu7rh5rcss140ogg

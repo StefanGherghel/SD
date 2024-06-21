@@ -1,0 +1,155 @@
+27078488+print_json+[
+    {"Titlu": "Programming in LUA", "Autor":"Roberto Ierusalimschy", "Editura":"Teora", "Text":"Preface. When Waldemar, Luiz, and I started the development of Lua, back in 1993, we could hardly imagine that it would spread as it did. ..."},
+    {"Titlu": "Steaua Sudului", "Autor":"Jules Verne", "Editura":"Corint", "Text":"Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ...."},
+    {"Titlu": "O calatorie spre centrul pamantului", "Autor":"Jules Verne", "Editura":"Polirom", "Text":"Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte."},
+    {"Titlu": "Insula Misterioasa", "Autor":"Jules Verne", "Editura":"Teora", "Text":"Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ..."},
+    {"Titlu": "Casa cu aburi", "Autor":"Jules Verne", "Editura":"Albatros", "Text":"Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ..."}
+]
+27078488+print_json+[
+    {"Titlu": "Programming in LUA", "Autor":"Roberto Ierusalimschy", "Editura":"Teora", "Text":"Preface. When Waldemar, Luiz, and I started the development of Lua, back in 1993, we could hardly imagine that it would spread as it did. ..."},
+    {"Titlu": "Steaua Sudului", "Autor":"Jules Verne", "Editura":"Corint", "Text":"Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ...."},
+    {"Titlu": "O calatorie spre centrul pamantului", "Autor":"Jules Verne", "Editura":"Polirom", "Text":"Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte."},
+    {"Titlu": "Insula Misterioasa", "Autor":"Jules Verne", "Editura":"Teora", "Text":"Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ..."},
+    {"Titlu": "Casa cu aburi", "Autor":"Jules Verne", "Editura":"Albatros", "Text":"Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ..."}
+]
+27078490+print_json+[
+    {"Titlu": "Programming in LUA", "Autor":"Roberto Ierusalimschy", "Editura":"Teora", "Text":"Preface. When Waldemar, Luiz, and I started the development of Lua, back in 1993, we could hardly imagine that it would spread as it did. ..."},
+    {"Titlu": "Steaua Sudului", "Autor":"Jules Verne", "Editura":"Corint", "Text":"Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ...."},
+    {"Titlu": "O calatorie spre centrul pamantului", "Autor":"Jules Verne", "Editura":"Polirom", "Text":"Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte."},
+    {"Titlu": "Insula Misterioasa", "Autor":"Jules Verne", "Editura":"Teora", "Text":"Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ..."},
+    {"Titlu": "Casa cu aburi", "Autor":"Jules Verne", "Editura":"Albatros", "Text":"Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ..."}
+]
+27078490+print_json+[
+    {"Titlu": "Programming in LUA", "Autor":"Roberto Ierusalimschy", "Editura":"Teora", "Text":"Preface. When Waldemar, Luiz, and I started the development of Lua, back in 1993, we could hardly imagine that it would spread as it did. ..."},
+    {"Titlu": "Steaua Sudului", "Autor":"Jules Verne", "Editura":"Corint", "Text":"Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ...."},
+    {"Titlu": "O calatorie spre centrul pamantului", "Autor":"Jules Verne", "Editura":"Polirom", "Text":"Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte."},
+    {"Titlu": "Insula Misterioasa", "Autor":"Jules Verne", "Editura":"Teora", "Text":"Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ..."},
+    {"Titlu": "Casa cu aburi", "Autor":"Jules Verne", "Editura":"Albatros", "Text":"Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ..."}
+]
+27078498+print_html+<html><head><title>Libraria mea HTML</title></head><body><p><h3>Programming in LUA</h3><h4>Roberto Ierusalimschy</h4><h5>Teora</h5>Preface. When Waldemar, Luiz, and I started the development of Lua, back in 1993, we could hardly imagine that it would spread as it did. ...</p><br/><p><h3>Steaua Sudului</h3><h4>Jules Verne</h4><h5>Corint</h5>Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ....</p><br/><p><h3>O calatorie spre centrul pamantului</h3><h4>Jules Verne</h4><h5>Polirom</h5>Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte.</p><br/><p><h3>Insula Misterioasa</h3><h4>Jules Verne</h4><h5>Teora</h5>Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ...</p><br/><p><h3>Casa cu aburi</h3><h4>Jules Verne</h4><h5>Albatros</h5>Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ...</p><br/></body></html>27078498+print_json+[
+    {"Titlu": "Programming in LUA", "Autor":"Roberto Ierusalimschy", "Editura":"Teora", "Text":"Preface. When Waldemar, Luiz, and I started the development of Lua, back in 1993, we could hardly imagine that it would spread as it did. ..."},
+    {"Titlu": "Steaua Sudului", "Autor":"Jules Verne", "Editura":"Corint", "Text":"Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ...."},
+    {"Titlu": "O calatorie spre centrul pamantului", "Autor":"Jules Verne", "Editura":"Polirom", "Text":"Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte."},
+    {"Titlu": "Insula Misterioasa", "Autor":"Jules Verne", "Editura":"Teora", "Text":"Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ..."},
+    {"Titlu": "Casa cu aburi", "Autor":"Jules Verne", "Editura":"Albatros", "Text":"Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ..."}
+]
+27078498+print_html+<html><head><title>Libraria mea HTML</title></head><body><p><h3>Programming in LUA</h3><h4>Roberto Ierusalimschy</h4><h5>Teora</h5>Preface. When Waldemar, Luiz, and I started the development of Lua, back in 1993, we could hardly imagine that it would spread as it did. ...</p><br/><p><h3>Steaua Sudului</h3><h4>Jules Verne</h4><h5>Corint</h5>Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ....</p><br/><p><h3>O calatorie spre centrul pamantului</h3><h4>Jules Verne</h4><h5>Polirom</h5>Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte.</p><br/><p><h3>Insula Misterioasa</h3><h4>Jules Verne</h4><h5>Teora</h5>Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ...</p><br/><p><h3>Casa cu aburi</h3><h4>Jules Verne</h4><h5>Albatros</h5>Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ...</p><br/></body></html>27078498+print_raw+Programming in LUA
+Roberto Ierusalimschy
+Teora
+Preface. When Waldemar, Luiz, and I started the development of Lua, back in 1993, we could hardly imagine that it would spread as it did. ...
+
+Steaua Sudului
+Jules Verne
+Corint
+Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ....
+
+O calatorie spre centrul pamantului
+Jules Verne
+Polirom
+Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte.
+
+Insula Misterioasa
+Jules Verne
+Teora
+Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ...
+
+Casa cu aburi
+Jules Verne
+Albatros
+Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ...
+
+27078498+print_raw+Programming in LUA
+Roberto Ierusalimschy
+Teora
+Preface. When Waldemar, Luiz, and I started the development of Lua, back in 1993, we could hardly imagine that it would spread as it did. ...
+
+Steaua Sudului
+Jules Verne
+Corint
+Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ....
+
+O calatorie spre centrul pamantului
+Jules Verne
+Polirom
+Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte.
+
+Insula Misterioasa
+Jules Verne
+Teora
+Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ...
+
+Casa cu aburi
+Jules Verne
+Albatros
+Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ...
+
+27078498+print_raw+Programming in LUA
+Roberto Ierusalimschy
+Teora
+Preface. When Waldemar, Luiz, and I started the development of Lua, back in 1993, we could hardly imagine that it would spread as it did. ...
+
+Steaua Sudului
+Jules Verne
+Corint
+Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ....
+
+O calatorie spre centrul pamantului
+Jules Verne
+Polirom
+Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte.
+
+Insula Misterioasa
+Jules Verne
+Teora
+Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ...
+
+Casa cu aburi
+Jules Verne
+Albatros
+Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ...
+
+27078498+print_raw+Programming in LUA
+Roberto Ierusalimschy
+Teora
+Preface. When Waldemar, Luiz, and I started the development of Lua, back in 1993, we could hardly imagine that it would spread as it did. ...
+
+Steaua Sudului
+Jules Verne
+Corint
+Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ....
+
+O calatorie spre centrul pamantului
+Jules Verne
+Polirom
+Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte.
+
+Insula Misterioasa
+Jules Verne
+Teora
+Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ...
+
+Casa cu aburi
+Jules Verne
+Albatros
+Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ...
+
+27078498+print_html+<html><head><title>Libraria mea HTML</title></head><body><p><h3>Programming in LUA</h3><h4>Roberto Ierusalimschy</h4><h5>Teora</h5>Preface. When Waldemar, Luiz, and I started the development of Lua, back in 1993, we could hardly imagine that it would spread as it did. ...</p><br/><p><h3>Steaua Sudului</h3><h4>Jules Verne</h4><h5>Corint</h5>Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ....</p><br/><p><h3>O calatorie spre centrul pamantului</h3><h4>Jules Verne</h4><h5>Polirom</h5>Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte.</p><br/><p><h3>Insula Misterioasa</h3><h4>Jules Verne</h4><h5>Teora</h5>Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ...</p><br/><p><h3>Casa cu aburi</h3><h4>Jules Verne</h4><h5>Albatros</h5>Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ...</p><br/></body></html>27078498+print_json+[
+    {"Titlu": "Programming in LUA", "Autor":"Roberto Ierusalimschy", "Editura":"Teora", "Text":"Preface. When Waldemar, Luiz, and I started the development of Lua, back in 1993, we could hardly imagine that it would spread as it did. ..."},
+    {"Titlu": "Steaua Sudului", "Autor":"Jules Verne", "Editura":"Corint", "Text":"Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ...."},
+    {"Titlu": "O calatorie spre centrul pamantului", "Autor":"Jules Verne", "Editura":"Polirom", "Text":"Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte."},
+    {"Titlu": "Insula Misterioasa", "Autor":"Jules Verne", "Editura":"Teora", "Text":"Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ..."},
+    {"Titlu": "Casa cu aburi", "Autor":"Jules Verne", "Editura":"Albatros", "Text":"Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ..."}
+]
+27078498+print_json+[
+    {"Titlu": "Programming in LUA", "Autor":"Roberto Ierusalimschy", "Editura":"Teora", "Text":"Preface. When Waldemar, Luiz, and I started the development of Lua, back in 1993, we could hardly imagine that it would spread as it did. ..."},
+    {"Titlu": "Steaua Sudului", "Autor":"Jules Verne", "Editura":"Corint", "Text":"Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ...."},
+    {"Titlu": "O calatorie spre centrul pamantului", "Autor":"Jules Verne", "Editura":"Polirom", "Text":"Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte."},
+    {"Titlu": "Insula Misterioasa", "Autor":"Jules Verne", "Editura":"Teora", "Text":"Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ..."},
+    {"Titlu": "Casa cu aburi", "Autor":"Jules Verne", "Editura":"Albatros", "Text":"Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ..."}
+]
+27078499+find-and-print_json_title=Steaua Sudului+[
+    {"Titlu": "Steaua Sudului", "Autor":"Jules Verne", "Editura":"Corint", "Text":"Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ...."}
+]
+27078499+find-and-print_json_title=Steaua Sudului+[
+    {"Titlu": "Steaua Sudului", "Autor":"Jules Verne", "Editura":"Corint", "Text":"Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ...."}
+]

@@ -1,0 +1,5 @@
+profile: function-aws
+defaultPackage: org.example
+---
+testFramework: kotlintest
+sourceLanguage: kotlin

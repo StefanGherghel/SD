@@ -1,0 +1,13 @@
+Pornind de la aplicația exemplu cu Okazii (simulat evident) din
+laboratorul 7, să se modifice aceasta astfel încât să se introducă un
+procesor de flux care să permită împreună cu alte microservicii (care
+vor trebui eventual create) să se inițieze o discuție privată între
+câțiva utilizatori care licitează (deci ne mai trebuie cel puțin un
+procesor master și unul de comunicație replicat pentru fiecare
+utilizator - se va utiliza ori partea de bidding, ori partea de
+comunicație).
+Dacă se consideră necesar se mai pot crea oricâte servicii se dorește
+conform gândirii studentului. Se vor respecta principiile SOLID pentru
+microservicii. La prezentare se va arăta diagrama de clase și se va
+explica aceasta împreună cu gradul de respectare a principiilor. Apoi
+va urma discuția pe cod.

@@ -1,0 +1,12 @@
+Pornind de la exemplul de implementare a agendei cu servicii REST din
+laborator să se realizeze următoarele:
+- să se deseneze diagrama de clase;
+- să se implementeze un serviciu (utilizând modelul porții API sau nu)
+care asigură o metodă de cache ce răspunde dacă noua cerere apare în
+primele 30 de minute;
+Dacă se consideră necesar se mai pot crea oricâte servicii se dorește
+conform gândirii studentului.
+Se va utiliza orchestrarea și respectarea principiilor SOLID pentru
+microservicii. La prezentare se va arăta diagrama de clase și se va
+explica aceasta împreună cu gradul de respectare a principiilor. Apoi
+va urma discuția pe cod.

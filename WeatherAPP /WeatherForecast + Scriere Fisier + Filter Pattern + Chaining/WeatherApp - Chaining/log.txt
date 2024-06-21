@@ -1,0 +1,3 @@
+
+location='Paris', date='24/06/2021 02:00:26', weatherState='Showers', weatherStateIconURL='https://www.metaweather.com/static/img/weather/png/s.png', windDirection='NNE', windSpeed=6, minTemp=12, maxTemp=17, currentTemp=17, humidity=76
+[24/06/2021 02:00:26]Filtered data : location='Paris', minTemp=12, maxTemp=17

@@ -1,0 +1,9 @@
+doi,{'fisier3.txt': 2, 'fisier1.txt': 1, 'fisier2.txt': 1}
+patru,{'fisier3.txt': 2, 'fisier1.txt': 1, 'fisier2.txt': 1}
+vasile,{'fisier3.txt': 2, 'fisier1.txt': 1, 'fisier2.txt': 1}
+catalin,{'fisier3.txt': 2, 'fisier1.txt': 1, 'fisier2.txt': 1}
+adrian,{'fisier3.txt': 2, 'fisier1.txt': 1, 'fisier2.txt': 1}
+ionel,{'fisier3.txt': 2, 'fisier1.txt': 1, 'fisier2.txt': 1}
+sapte,{'fisier3.txt': 2, 'fisier1.txt': 1, 'fisier2.txt': 1}
+cinci,{'fisier3.txt': 2, 'fisier1.txt': 1, 'fisier2.txt': 1}
+test,{'fisier3.txt': 2, 'fisier1.txt': 1, 'fisier2.txt': 1}

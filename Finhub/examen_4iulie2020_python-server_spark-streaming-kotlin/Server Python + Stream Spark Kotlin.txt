@@ -1,0 +1,23 @@
+Să se creeze în Python un server TCP care să facă o cerere pentru
+simbolurile companiilor cu acțiuni (vezi documentația:
+https://finnhub.io/docs/api#stock-symbols) și folosind aceste
+simboluri precum și API-ul de profil gratuit al unei companii
+(https://finnhub.io/docs/api#company-profile2) să trimită datele prin
+socket câte un profil o dată la 3 secunde (pentru
+serializare/deserializare se pot utiliza funcțiile loads și dumps din
+modulul json din Python, iar în Kotlin se poate utiliza
+kotlinx.serialization
+https://github.com/Kotlin/kotlinx.serialization). De asemenea, se va
+implementa în Kotlin un flux de date direct (direct stream) utilizând
+framework-ul Apache Spark, care să preia datele de la serverul TCP și
+să le prelucreze astfel:
+- se vor filtra acele companii care sunt listate pe exchange-ul "NEW
+YORK STOCK EXCHANGE, INC.";
+- se vor filtra acele companii cu un IPO (initial public offer) din
+anul 2015 până în prezent;
+- pentru fiecare RDD în parte, se va afișa numele companiei, numărul
+de telefon și piața de capital (marketCapitalization).
+Există o limitare de 60 de apeluri / minut la fiecare cheie API. Se
+poate crea un cont pe platforma finnhub.io
+(https://finnhub.io/register), sau se poate utiliza următoarea cheie
+(token) API: brmr7v7rh5rcss140lq0

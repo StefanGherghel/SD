@@ -1,0 +1,8 @@
+Pornind de la aplicația exemplu pentru ciurul lui Eratostene din
+laboratorul 11, să se modifice aceasta astfel încât să se găsească
+(dacă există) perechile de numere care satisfac a * b = a + b * 3
+(această verificare va fi făcută în funcție) unde a aparține lui A, b
+aparține lui B, iar A și B sunt două ADT-uri cu câte 100 de valori
+inițializate aleator (restul în programul principal).
+Dacă se consideră necesar se mai pot crea oricâte servicii se dorește
+conform gândirii studentului.

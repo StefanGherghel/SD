@@ -1,0 +1,4 @@
+micronaut:
+  application:
+    name: adtConsumer
+rabbitmq.uri: amqp://localhost:5672

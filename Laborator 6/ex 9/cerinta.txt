@@ -1,0 +1,11 @@
+Pornind de la exemplul 2 din laboratorul 6, să se modifice acesta
+astfel încât  să utilizeze un fișier pe disc pe post de memorie cache
+(se va utiliza numai adăugare și analiza pe bază de marcaje
+temporale).
+Dacă se consideră necesar se mai pot crea oricâte servicii se dorește
+conform gândirii studentului.
+Se va utiliza orchestrarea și respectarea principiilor SOLID pentru
+microservicii. La prezentare se va arăta diagrama de clase și se va
+explica aceasta împreună cu gradul de respectare a principiilor. Apoi
+va urma discuția pe cod.
+

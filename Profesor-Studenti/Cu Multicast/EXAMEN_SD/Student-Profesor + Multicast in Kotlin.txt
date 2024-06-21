@@ -1,0 +1,9 @@
+Pornind de la aplicația exemplu de chat din laboratorul 8, să se
+modifice aceasta prin utilizarea corutinelor și introducerea unui
+procesor de flux care implementează multicast-ul (unul la mai mulți -
+trebuie să existe posibilitatea creării unui subgrup de studenți).
+Dacă se consideră necesar se mai pot crea oricâte servicii se dorește
+conform gândirii studentului. Se vor respecta principiile SOLID pentru
+microservicii. La prezentare se va arăta diagrama de clase și se va
+explica aceasta împreună cu gradul de respectare a principiilor. Apoi
+va urma discuția pe cod

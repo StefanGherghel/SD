@@ -1,0 +1,17 @@
+*****Să se creeze un server TCP în Kotlin care să facă o cerere la un API
+de știri (de exemplu: https://finnhub.io/docs/api#company-news) pentru
+o anumită companie (ex.: Apple - APPL) și să trimită știrile din
+ultimele 2 săptămâni prin socket câte o știre o dată la 5 secunde și
+utilizând Spark Streaming și Spark RDD, să se creeze un stream direct
+ce va prelucra știrile astfel încât să realizeze o analiză statistică
+de sentimente pe baza a două fișiere text ce conțin cuvinte
+pozitive/negative (încărcate în aplicație ca RDD-uri) - ca la tema
+laboratorului 14. Rezultatul clasificării fiecărei știri
+(pozitiv/negativ/neutru) va fi afișat la consolă. Fișierele de cuvinte
+pot fi descărcate din arhiva cu exemple de la laboratorul 14
+(http://mike.tuiasi.ro/labsd14.zip).
+Există o limitare de 60 de apeluri / minut la fiecare cheie API. Se
+poate crea un cont pe platforma finnhub.io
+(https://finnhub.io/register), sau se poate utiliza următoarea cheie
+(token) API: brmu7ovrh5r90ebn6jrg
+ 

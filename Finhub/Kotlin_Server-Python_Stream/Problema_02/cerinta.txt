@@ -1,0 +1,23 @@
+*****Să se creeze în Kotlin un server TCP care să facă o cerere (khttp)
+pentru simbolurile companiilor cu acțiuni (vezi documentația:
+https://finnhub.io/docs/api#stock-symbols) și folosind aceste
+simboluri precum și API-ul de prețuri țintă
+(https://finnhub.io/docs/api#price-target) să trimită datele prin
+socket câte o companie (symbol) o dată la 3 secunde (pentru
+serializare/deserializare se pot utiliza funcțiile loads și dumps din
+modulul json din Python, iar în Kotlin se poate utiliza
+kotlinx.serialization
+https://github.com/Kotlin/kotlinx.serialization). De asemenea, se va
+implementa în Python un flux de date direct (direct stream) utilizând
+framework-ul Apache Spark (PySpark), care să preia datele de la
+serverul TCP și să le prelucreze astfel:
+- se va calcula pentru acțiunile fiecărei companii profitul mediu care
+putea fi făcut în luna curentă, pe baza prețurilor estimate de
+analiști (targetMean și targetLow);
+- se vor filtra rezultatele, păstrandu-le doar pe cele pentru care
+procentul de profit > 40%
+- pentru fiecare RDD în parte, se va afișa compania (symbol) și profitul mediu.
+Există o limitare de 60 de apeluri / minut la fiecare cheie API. Se
+poate crea un cont pe platforma finnhub.io
+(https://finnhub.io/register), sau se poate utiliza următoarea cheie
+(token) API: brl7eb7rh5re1lvco7fg 

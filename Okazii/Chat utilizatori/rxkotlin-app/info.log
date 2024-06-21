@@ -1,0 +1,976 @@
+2020-09-09 16:37:29: [AuctioneerMicroservice]: se executa pe portul: 1500
+2020-09-09 16:37:29: [MessageProcessorMicroservice]: se executa pe portul:1600
+2020-09-09 16:37:29: [MessageProcessorMicroservice]: Se asteapta mesaje pentru procesare...
+2020-09-09 16:37:29: [BiddingProcessorMicroservice]: se executa pe portul:1700
+2020-09-09 16:37:29: [BiddingProcessorMicroservice]: Se asteapta ofertele pentru finalizarea licitatiei...
+2020-09-09 16:37:29: [AuctioneerMicroservice]: Se asteapta oferte de la bidderi...
+2020-09-09 16:37:32: [BidderMicroservice]: 37582 M-am conectat la Auctioneer!
+2020-09-09 16:37:33: [BidderMicroservice]: 37592 M-am conectat la Auctioneer!
+2020-09-09 16:37:33: [BidderMicroservice]: 37586 M-am conectat la Auctioneer!
+2020-09-09 16:37:33: [BidderMicroservice]: 37584 M-am conectat la Auctioneer!
+2020-09-09 16:37:33: [BidderMicroservice]: 37588 M-am conectat la Auctioneer!
+2020-09-09 16:37:33: [BidderMicroservice]: 37590 M-am conectat la Auctioneer!
+2020-09-09 16:37:33: [BidderMicroservice]: [37582] Astept rezultatul licitatiei...
+2020-09-09 16:37:33: [BidderMicroservice]: 37596 M-am conectat la Auctioneer!
+2020-09-09 16:37:33: [BidderMicroservice]: 37598 M-am conectat la Auctioneer!
+2020-09-09 16:37:33: [BidderMicroservice]: 37600 M-am conectat la Auctioneer!
+2020-09-09 16:37:33: [AuctioneerMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37582 {Name: Marian, Telephone: 0727072852, Email: Marian@student.tuiasi.ro} >>> licitez:5968
+2020-09-09 16:37:33: [BidderMicroservice]: [37592] Astept rezultatul licitatiei...
+2020-09-09 16:37:33: [BidderMicroservice]: 37594 M-am conectat la Auctioneer!
+2020-09-09 16:37:33: [AuctioneerMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37584 {Name: George, Telephone: 0723683212, Email: Bianca@tuiasi.ro} >>> licitez:7943
+2020-09-09 16:37:33: [BidderMicroservice]: [37584] Astept rezultatul licitatiei...
+2020-09-09 16:37:33: [AuctioneerMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37586 {Name: Gigel, Telephone: 0721252872, Email: Bianca@tuiasi.ro} >>> licitez:4625
+2020-09-09 16:37:33: [BidderMicroservice]: [37586] Astept rezultatul licitatiei...
+2020-09-09 16:37:33: [BidderMicroservice]: [37596] Astept rezultatul licitatiei...
+2020-09-09 16:37:33: [BidderMicroservice]: [37590] Astept rezultatul licitatiei...
+2020-09-09 16:37:33: [AuctioneerMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37588 {Name: Andrei, Telephone: 0726035010, Email: Andrei@student.tuiasi.ro} >>> licitez:5972
+2020-09-09 16:37:33: [BidderMicroservice]: [37600] Astept rezultatul licitatiei...
+2020-09-09 16:37:33: [AuctioneerMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37590 {Name: Bianca, Telephone: 0728632909, Email: Andreea@abc.com} >>> licitez:9447
+2020-09-09 16:37:33: [AuctioneerMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37592 {Name: Andreea, Telephone: 0724505680, Email: Bianca@abc.com} >>> licitez:9154
+2020-09-09 16:37:33: [BidderMicroservice]: [37588] Astept rezultatul licitatiei...
+2020-09-09 16:37:33: [BidderMicroservice]: [37598] Astept rezultatul licitatiei...
+2020-09-09 16:37:33: [BidderMicroservice]: [37594] Astept rezultatul licitatiei...
+2020-09-09 16:37:33: [AuctioneerMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37594 {Name: Andreea, Telephone: 0728568460, Email: George@student.tuiasi.ro} >>> licitez:8101
+2020-09-09 16:37:33: [AuctioneerMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37596 {Name: Gogu, Telephone: 0727544856, Email: Andreea@gmail.com} >>> licitez:7228
+2020-09-09 16:37:33: [AuctioneerMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37598 {Name: Bula, Telephone: 0724855737, Email: Gogu@tuiasi.ro} >>> licitez:6186
+2020-09-09 16:37:33: [AuctioneerMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37600 {Name: Pete, Telephone: 0722159938, Email: Marian@yahoo.ro} >>> licitez:5657
+2020-09-09 16:37:48: [AuctioneerMicroservice]: Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+2020-09-09 16:37:48: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:37:33] /127.0.0.1:37582 {Name: Marian, Telephone: 0727072852, Email: Marian@student.tuiasi.ro} >>> licitez:5968
+2020-09-09 16:37:48: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:37:33] /127.0.0.1:37584 {Name: George, Telephone: 0723683212, Email: Bianca@tuiasi.ro} >>> licitez:7943
+2020-09-09 16:37:48: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:37:33] /127.0.0.1:37586 {Name: Gigel, Telephone: 0721252872, Email: Bianca@tuiasi.ro} >>> licitez:4625
+2020-09-09 16:37:48: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:37:33] /127.0.0.1:37588 {Name: Andrei, Telephone: 0726035010, Email: Andrei@student.tuiasi.ro} >>> licitez:5972
+2020-09-09 16:37:48: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:37:33] /127.0.0.1:37590 {Name: Bianca, Telephone: 0728632909, Email: Andreea@abc.com} >>> licitez:9447
+2020-09-09 16:37:48: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:37:33] /127.0.0.1:37592 {Name: Andreea, Telephone: 0724505680, Email: Bianca@abc.com} >>> licitez:9154
+2020-09-09 16:37:48: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:37:33] /127.0.0.1:37594 {Name: Andreea, Telephone: 0728568460, Email: George@student.tuiasi.ro} >>> licitez:8101
+2020-09-09 16:37:48: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:37:33] /127.0.0.1:37596 {Name: Gogu, Telephone: 0727544856, Email: Andreea@gmail.com} >>> licitez:7228
+2020-09-09 16:37:48: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:37:33] /127.0.0.1:37598 {Name: Bula, Telephone: 0724855737, Email: Gogu@tuiasi.ro} >>> licitez:6186
+2020-09-09 16:37:48: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:37:33] /127.0.0.1:37600 {Name: Pete, Telephone: 0722159938, Email: Marian@yahoo.ro} >>> licitez:5657
+2020-09-09 16:37:48: [AuctioneerMicroservice]: Am trimis toate ofertele catre MessageProcessor.
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37582 {Name: Marian, Telephone: 0727072852, Email: Marian@student.tuiasi.ro} >>> licitez:5968
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37584 {Name: George, Telephone: 0723683212, Email: Bianca@tuiasi.ro} >>> licitez:7943
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37586 {Name: Gigel, Telephone: 0721252872, Email: Bianca@tuiasi.ro} >>> licitez:4625
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37588 {Name: Andrei, Telephone: 0726035010, Email: Andrei@student.tuiasi.ro} >>> licitez:5972
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37590 {Name: Bianca, Telephone: 0728632909, Email: Andreea@abc.com} >>> licitez:9447
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37592 {Name: Andreea, Telephone: 0724505680, Email: Bianca@abc.com} >>> licitez:9154
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37594 {Name: Andreea, Telephone: 0728568460, Email: George@student.tuiasi.ro} >>> licitez:8101
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37596 {Name: Gogu, Telephone: 0727544856, Email: Andreea@gmail.com} >>> licitez:7228
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37598 {Name: Bula, Telephone: 0724855737, Email: Gogu@tuiasi.ro} >>> licitez:6186
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37600 {Name: Pete, Telephone: 0722159938, Email: Marian@yahoo.ro} >>> licitez:5657
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: Trimit urmatoarele mesaje:
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37582 {Name: Marian, Telephone: 0727072852, Email: Marian@student.tuiasi.ro} >>> licitez:5968
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37584 {Name: George, Telephone: 0723683212, Email: Bianca@tuiasi.ro} >>> licitez:7943
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37586 {Name: Gigel, Telephone: 0721252872, Email: Bianca@tuiasi.ro} >>> licitez:4625
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37588 {Name: Andrei, Telephone: 0726035010, Email: Andrei@student.tuiasi.ro} >>> licitez:5972
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37590 {Name: Bianca, Telephone: 0728632909, Email: Andreea@abc.com} >>> licitez:9447
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37592 {Name: Andreea, Telephone: 0724505680, Email: Bianca@abc.com} >>> licitez:9154
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37594 {Name: Andreea, Telephone: 0728568460, Email: George@student.tuiasi.ro} >>> licitez:8101
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37596 {Name: Gogu, Telephone: 0727544856, Email: Andreea@gmail.com} >>> licitez:7228
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37598 {Name: Bula, Telephone: 0724855737, Email: Gogu@tuiasi.ro} >>> licitez:6186
+2020-09-09 16:37:49: [MessageProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37600 {Name: Pete, Telephone: 0722159938, Email: Marian@yahoo.ro} >>> licitez:5657
+2020-09-09 16:37:49: [BiddingProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37582 {Name: Marian, Telephone: 0727072852, Email: Marian@student.tuiasi.ro} >>> licitez:5968
+2020-09-09 16:37:49: [BiddingProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37584 {Name: George, Telephone: 0723683212, Email: Bianca@tuiasi.ro} >>> licitez:7943
+2020-09-09 16:37:49: [BiddingProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37586 {Name: Gigel, Telephone: 0721252872, Email: Bianca@tuiasi.ro} >>> licitez:4625
+2020-09-09 16:37:49: [BiddingProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37588 {Name: Andrei, Telephone: 0726035010, Email: Andrei@student.tuiasi.ro} >>> licitez:5972
+2020-09-09 16:37:49: [BiddingProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37590 {Name: Bianca, Telephone: 0728632909, Email: Andreea@abc.com} >>> licitez:9447
+2020-09-09 16:37:49: [BiddingProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37592 {Name: Andreea, Telephone: 0724505680, Email: Bianca@abc.com} >>> licitez:9154
+2020-09-09 16:37:49: [BiddingProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37594 {Name: Andreea, Telephone: 0728568460, Email: George@student.tuiasi.ro} >>> licitez:8101
+2020-09-09 16:37:49: [BiddingProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37596 {Name: Gogu, Telephone: 0727544856, Email: Andreea@gmail.com} >>> licitez:7228
+2020-09-09 16:37:49: [BiddingProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37598 {Name: Bula, Telephone: 0724855737, Email: Gogu@tuiasi.ro} >>> licitez:6186
+2020-09-09 16:37:49: [BiddingProcessorMicroservice]: [09-09-2020 16:37:33] /127.0.0.1:37600 {Name: Pete, Telephone: 0722159938, Email: Marian@yahoo.ro} >>> licitez:5657
+2020-09-09 16:38:04: [AuctioneerMicroservice]: Nu ma pot conecta la BiddingProcessor!
+2020-09-09 16:38:04: [BidderMicroservice]: [37590] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:38:04: [BidderMicroservice]: [37600] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:38:04: [BidderMicroservice]: [37596] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:38:04: [BidderMicroservice]: [37598] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:38:04: [BidderMicroservice]: [37582] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:38:04: [BidderMicroservice]: [37592] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:38:04: [BidderMicroservice]: [37588] Eroare: java.net.SocketException: Connection reset
+2020-09-09 16:38:04: [BidderMicroservice]: [37594] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:38:04: [BidderMicroservice]: [37584] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:38:04: [BidderMicroservice]: [37586] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:39:11: [BiddingProcessorMicroservice]: se executa pe portul:1700
+2020-09-09 16:39:11: [BiddingProcessorMicroservice]: Se asteapta ofertele pentru finalizarea licitatiei...
+2020-09-09 16:39:11: [AuctioneerMicroservice]: se executa pe portul: 1500
+2020-09-09 16:39:11: [MessageProcessorMicroservice]: se executa pe portul:1600
+2020-09-09 16:39:11: [AuctioneerMicroservice]: Se asteapta oferte de la bidderi...
+2020-09-09 16:39:11: [MessageProcessorMicroservice]: Se asteapta mesaje pentru procesare...
+2020-09-09 16:39:15: [BidderMicroservice]: 37698 M-am conectat la Auctioneer!
+2020-09-09 16:39:15: [BidderMicroservice]: 37700 M-am conectat la Auctioneer!
+2020-09-09 16:39:15: [BidderMicroservice]: 37702 M-am conectat la Auctioneer!
+2020-09-09 16:39:15: [BidderMicroservice]: 37706 M-am conectat la Auctioneer!
+2020-09-09 16:39:15: [BidderMicroservice]: 37704 M-am conectat la Auctioneer!
+2020-09-09 16:39:15: [BidderMicroservice]: 37710 M-am conectat la Auctioneer!
+2020-09-09 16:39:15: [BidderMicroservice]: 37712 M-am conectat la Auctioneer!
+2020-09-09 16:39:15: [BidderMicroservice]: [37698] Astept rezultatul licitatiei...
+2020-09-09 16:39:15: [BidderMicroservice]: 37708 M-am conectat la Auctioneer!
+2020-09-09 16:39:15: [BidderMicroservice]: 37714 M-am conectat la Auctioneer!
+2020-09-09 16:39:15: [BidderMicroservice]: [37700] Astept rezultatul licitatiei...
+2020-09-09 16:39:15: [AuctioneerMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37698 {Name: Bula, Telephone: 0727079973, Email: Marian@gmail.com} >>> licitez:7527
+2020-09-09 16:39:15: [AuctioneerMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37700 {Name: Bula, Telephone: 0729696423, Email: Bianca@abc.com} >>> licitez:6649
+2020-09-09 16:39:15: [BidderMicroservice]: [37706] Astept rezultatul licitatiei...
+2020-09-09 16:39:15: [BidderMicroservice]: 37716 M-am conectat la Auctioneer!
+2020-09-09 16:39:15: [AuctioneerMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37702 {Name: Gogu, Telephone: 0724641668, Email: George@yahoo.ro} >>> licitez:5359
+2020-09-09 16:39:15: [BidderMicroservice]: [37702] Astept rezultatul licitatiei...
+2020-09-09 16:39:15: [BidderMicroservice]: [37704] Astept rezultatul licitatiei...
+2020-09-09 16:39:15: [AuctioneerMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37704 {Name: George, Telephone: 0725063689, Email: Bianca@yahoo.ro} >>> licitez:2444
+2020-09-09 16:39:15: [AuctioneerMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37706 {Name: Andreea, Telephone: 0729452722, Email: Marian@abc.com} >>> licitez:4201
+2020-09-09 16:39:15: [BidderMicroservice]: [37712] Astept rezultatul licitatiei...
+2020-09-09 16:39:16: [BidderMicroservice]: [37710] Astept rezultatul licitatiei...
+2020-09-09 16:39:16: [BidderMicroservice]: [37714] Astept rezultatul licitatiei...
+2020-09-09 16:39:16: [BidderMicroservice]: [37708] Astept rezultatul licitatiei...
+2020-09-09 16:39:16: [AuctioneerMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37708 {Name: Bula, Telephone: 0727479256, Email: Bianca@abc.com} >>> licitez:9864
+2020-09-09 16:39:16: [AuctioneerMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37710 {Name: Bianca, Telephone: 0729699005, Email: Bula@yahoo.ro} >>> licitez:7586
+2020-09-09 16:39:16: [BidderMicroservice]: [37716] Astept rezultatul licitatiei...
+2020-09-09 16:39:16: [AuctioneerMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37712 {Name: Andrei, Telephone: 0729553267, Email: Marian@tuiasi.ro} >>> licitez:7132
+2020-09-09 16:39:16: [AuctioneerMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37714 {Name: Pete, Telephone: 0728158857, Email: George@abc.com} >>> licitez:9385
+2020-09-09 16:39:16: [AuctioneerMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37716 {Name: Gogu, Telephone: 0728768308, Email: Bula@yahoo.ro} >>> licitez:9239
+2020-09-09 16:39:31: [AuctioneerMicroservice]: Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+2020-09-09 16:39:31: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:39:15] /127.0.0.1:37698 {Name: Bula, Telephone: 0727079973, Email: Marian@gmail.com} >>> licitez:7527
+2020-09-09 16:39:31: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:39:15] /127.0.0.1:37700 {Name: Bula, Telephone: 0729696423, Email: Bianca@abc.com} >>> licitez:6649
+2020-09-09 16:39:31: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:39:15] /127.0.0.1:37702 {Name: Gogu, Telephone: 0724641668, Email: George@yahoo.ro} >>> licitez:5359
+2020-09-09 16:39:31: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:39:15] /127.0.0.1:37704 {Name: George, Telephone: 0725063689, Email: Bianca@yahoo.ro} >>> licitez:2444
+2020-09-09 16:39:31: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:39:15] /127.0.0.1:37706 {Name: Andreea, Telephone: 0729452722, Email: Marian@abc.com} >>> licitez:4201
+2020-09-09 16:39:31: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:39:16] /127.0.0.1:37708 {Name: Bula, Telephone: 0727479256, Email: Bianca@abc.com} >>> licitez:9864
+2020-09-09 16:39:31: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:39:16] /127.0.0.1:37710 {Name: Bianca, Telephone: 0729699005, Email: Bula@yahoo.ro} >>> licitez:7586
+2020-09-09 16:39:31: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:39:15] /127.0.0.1:37712 {Name: Andrei, Telephone: 0729553267, Email: Marian@tuiasi.ro} >>> licitez:7132
+2020-09-09 16:39:31: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:39:16] /127.0.0.1:37714 {Name: Pete, Telephone: 0728158857, Email: George@abc.com} >>> licitez:9385
+2020-09-09 16:39:31: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:39:16] /127.0.0.1:37716 {Name: Gogu, Telephone: 0728768308, Email: Bula@yahoo.ro} >>> licitez:9239
+2020-09-09 16:39:31: [AuctioneerMicroservice]: Am trimis toate ofertele catre MessageProcessor.
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37698 {Name: Bula, Telephone: 0727079973, Email: Marian@gmail.com} >>> licitez:7527
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37700 {Name: Bula, Telephone: 0729696423, Email: Bianca@abc.com} >>> licitez:6649
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37702 {Name: Gogu, Telephone: 0724641668, Email: George@yahoo.ro} >>> licitez:5359
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37704 {Name: George, Telephone: 0725063689, Email: Bianca@yahoo.ro} >>> licitez:2444
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37706 {Name: Andreea, Telephone: 0729452722, Email: Marian@abc.com} >>> licitez:4201
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37708 {Name: Bula, Telephone: 0727479256, Email: Bianca@abc.com} >>> licitez:9864
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37710 {Name: Bianca, Telephone: 0729699005, Email: Bula@yahoo.ro} >>> licitez:7586
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37712 {Name: Andrei, Telephone: 0729553267, Email: Marian@tuiasi.ro} >>> licitez:7132
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37714 {Name: Pete, Telephone: 0728158857, Email: George@abc.com} >>> licitez:9385
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37716 {Name: Gogu, Telephone: 0728768308, Email: Bula@yahoo.ro} >>> licitez:9239
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: Trimit urmatoarele mesaje:
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37698 {Name: Bula, Telephone: 0727079973, Email: Marian@gmail.com} >>> licitez:7527
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37700 {Name: Bula, Telephone: 0729696423, Email: Bianca@abc.com} >>> licitez:6649
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37702 {Name: Gogu, Telephone: 0724641668, Email: George@yahoo.ro} >>> licitez:5359
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37704 {Name: George, Telephone: 0725063689, Email: Bianca@yahoo.ro} >>> licitez:2444
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37706 {Name: Andreea, Telephone: 0729452722, Email: Marian@abc.com} >>> licitez:4201
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37708 {Name: Bula, Telephone: 0727479256, Email: Bianca@abc.com} >>> licitez:9864
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37710 {Name: Bianca, Telephone: 0729699005, Email: Bula@yahoo.ro} >>> licitez:7586
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37712 {Name: Andrei, Telephone: 0729553267, Email: Marian@tuiasi.ro} >>> licitez:7132
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37714 {Name: Pete, Telephone: 0728158857, Email: George@abc.com} >>> licitez:9385
+2020-09-09 16:39:31: [MessageProcessorMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37716 {Name: Gogu, Telephone: 0728768308, Email: Bula@yahoo.ro} >>> licitez:9239
+2020-09-09 16:39:31: [BiddingProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37698 {Name: Bula, Telephone: 0727079973, Email: Marian@gmail.com} >>> licitez:7527
+2020-09-09 16:39:31: [BiddingProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37700 {Name: Bula, Telephone: 0729696423, Email: Bianca@abc.com} >>> licitez:6649
+2020-09-09 16:39:31: [BiddingProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37702 {Name: Gogu, Telephone: 0724641668, Email: George@yahoo.ro} >>> licitez:5359
+2020-09-09 16:39:31: [BiddingProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37704 {Name: George, Telephone: 0725063689, Email: Bianca@yahoo.ro} >>> licitez:2444
+2020-09-09 16:39:31: [BiddingProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37706 {Name: Andreea, Telephone: 0729452722, Email: Marian@abc.com} >>> licitez:4201
+2020-09-09 16:39:31: [BiddingProcessorMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37708 {Name: Bula, Telephone: 0727479256, Email: Bianca@abc.com} >>> licitez:9864
+2020-09-09 16:39:31: [BiddingProcessorMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37710 {Name: Bianca, Telephone: 0729699005, Email: Bula@yahoo.ro} >>> licitez:7586
+2020-09-09 16:39:31: [BiddingProcessorMicroservice]: [09-09-2020 16:39:15] /127.0.0.1:37712 {Name: Andrei, Telephone: 0729553267, Email: Marian@tuiasi.ro} >>> licitez:7132
+2020-09-09 16:39:31: [BiddingProcessorMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37714 {Name: Pete, Telephone: 0728158857, Email: George@abc.com} >>> licitez:9385
+2020-09-09 16:39:31: [BiddingProcessorMicroservice]: [09-09-2020 16:39:16] /127.0.0.1:37716 {Name: Gogu, Telephone: 0728768308, Email: Bula@yahoo.ro} >>> licitez:9239
+2020-09-09 16:39:46: [AuctioneerMicroservice]: Nu ma pot conecta la BiddingProcessor!
+2020-09-09 16:39:46: [BidderMicroservice]: [37706] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:39:46: [BidderMicroservice]: [37708] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:39:46: [BidderMicroservice]: [37710] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:39:46: [BidderMicroservice]: [37714] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:39:46: [BidderMicroservice]: [37716] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:39:46: [BidderMicroservice]: [37704] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:39:46: [BidderMicroservice]: [37712] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:39:46: [BidderMicroservice]: [37698] Eroare: java.net.SocketException: Connection reset
+2020-09-09 16:39:46: [BidderMicroservice]: [37700] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:39:46: [BidderMicroservice]: [37702] Eroare: java.net.SocketException: Connection reset
+2020-09-09 16:40:45: [AuctioneerMicroservice]: se executa pe portul: 1500
+2020-09-09 16:40:45: [AuctioneerMicroservice]: Se asteapta oferte de la bidderi...
+2020-09-09 16:40:45: [MessageProcessorMicroservice]: se executa pe portul:1600
+2020-09-09 16:40:45: [MessageProcessorMicroservice]: Se asteapta mesaje pentru procesare...
+2020-09-09 16:40:49: [BidderMicroservice]: 37766 M-am conectat la Auctioneer!
+2020-09-09 16:40:49: [BidderMicroservice]: 37758 M-am conectat la Auctioneer!
+2020-09-09 16:40:50: [BidderMicroservice]: 37760 M-am conectat la Auctioneer!
+2020-09-09 16:40:50: [BidderMicroservice]: 37762 M-am conectat la Auctioneer!
+2020-09-09 16:40:50: [BidderMicroservice]: 37764 M-am conectat la Auctioneer!
+2020-09-09 16:40:50: [BidderMicroservice]: 37768 M-am conectat la Auctioneer!
+2020-09-09 16:40:50: [BidderMicroservice]: 37772 M-am conectat la Auctioneer!
+2020-09-09 16:40:50: [BidderMicroservice]: 37774 M-am conectat la Auctioneer!
+2020-09-09 16:40:50: [BidderMicroservice]: 37770 M-am conectat la Auctioneer!
+2020-09-09 16:40:50: [BidderMicroservice]: 37776 M-am conectat la Auctioneer!
+2020-09-09 16:40:50: [BidderMicroservice]: [37766] Astept rezultatul licitatiei...
+2020-09-09 16:40:50: [BidderMicroservice]: [37758] Astept rezultatul licitatiei...
+2020-09-09 16:40:50: [AuctioneerMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37758 {Name: Gigel, Telephone: 0726159235, Email: Pete@tuiasi.ro} >>> licitez:7607
+2020-09-09 16:40:50: [AuctioneerMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37760 {Name: Marian, Telephone: 0727568900, Email: Gogu@gmail.com} >>> licitez:6162
+2020-09-09 16:40:50: [BidderMicroservice]: [37760] Astept rezultatul licitatiei...
+2020-09-09 16:40:50: [AuctioneerMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37762 {Name: Marian, Telephone: 0729088655, Email: Andrei@yahoo.ro} >>> licitez:4142
+2020-09-09 16:40:50: [BidderMicroservice]: [37762] Astept rezultatul licitatiei...
+2020-09-09 16:40:50: [AuctioneerMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37764 {Name: Andreea, Telephone: 0723850609, Email: Marian@abc.com} >>> licitez:7911
+2020-09-09 16:40:50: [BidderMicroservice]: [37764] Astept rezultatul licitatiei...
+2020-09-09 16:40:50: [AuctioneerMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37766 {Name: Andrei, Telephone: 0721452862, Email: Andreea@yahoo.ro} >>> licitez:1410
+2020-09-09 16:40:50: [BidderMicroservice]: [37774] Astept rezultatul licitatiei...
+2020-09-09 16:40:50: [AuctioneerMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37768 {Name: Gigel, Telephone: 0721643997, Email: Bianca@abc.com} >>> licitez:3443
+2020-09-09 16:40:50: [BidderMicroservice]: [37768] Astept rezultatul licitatiei...
+2020-09-09 16:40:50: [AuctioneerMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37770 {Name: George, Telephone: 0728625259, Email: Marian@yahoo.ro} >>> licitez:5404
+2020-09-09 16:40:50: [BidderMicroservice]: [37770] Astept rezultatul licitatiei...
+2020-09-09 16:40:50: [BidderMicroservice]: [37772] Astept rezultatul licitatiei...
+2020-09-09 16:40:50: [AuctioneerMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37772 {Name: Andreea, Telephone: 0721704787, Email: Bianca@student.tuiasi.ro} >>> licitez:8825
+2020-09-09 16:40:50: [AuctioneerMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37774 {Name: Andreea, Telephone: 0725069763, Email: Marian@student.tuiasi.ro} >>> licitez:6611
+2020-09-09 16:40:50: [AuctioneerMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37776 {Name: Gogu, Telephone: 0727793474, Email: Gogu@yahoo.ro} >>> licitez:3495
+2020-09-09 16:40:50: [BidderMicroservice]: [37776] Astept rezultatul licitatiei...
+2020-09-09 16:40:58: [BiddingProcessorMicroservice]: se executa pe portul:1700
+2020-09-09 16:40:58: [BiddingProcessorMicroservice]: Se asteapta ofertele pentru finalizarea licitatiei...
+2020-09-09 16:41:05: [AuctioneerMicroservice]: Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+2020-09-09 16:41:05: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:40:50] /127.0.0.1:37758 {Name: Gigel, Telephone: 0726159235, Email: Pete@tuiasi.ro} >>> licitez:7607
+2020-09-09 16:41:05: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:40:50] /127.0.0.1:37760 {Name: Marian, Telephone: 0727568900, Email: Gogu@gmail.com} >>> licitez:6162
+2020-09-09 16:41:05: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:40:50] /127.0.0.1:37762 {Name: Marian, Telephone: 0729088655, Email: Andrei@yahoo.ro} >>> licitez:4142
+2020-09-09 16:41:05: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:40:50] /127.0.0.1:37764 {Name: Andreea, Telephone: 0723850609, Email: Marian@abc.com} >>> licitez:7911
+2020-09-09 16:41:05: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:40:50] /127.0.0.1:37766 {Name: Andrei, Telephone: 0721452862, Email: Andreea@yahoo.ro} >>> licitez:1410
+2020-09-09 16:41:05: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:40:50] /127.0.0.1:37768 {Name: Gigel, Telephone: 0721643997, Email: Bianca@abc.com} >>> licitez:3443
+2020-09-09 16:41:05: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:40:50] /127.0.0.1:37770 {Name: George, Telephone: 0728625259, Email: Marian@yahoo.ro} >>> licitez:5404
+2020-09-09 16:41:05: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:40:50] /127.0.0.1:37772 {Name: Andreea, Telephone: 0721704787, Email: Bianca@student.tuiasi.ro} >>> licitez:8825
+2020-09-09 16:41:05: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:40:50] /127.0.0.1:37774 {Name: Andreea, Telephone: 0725069763, Email: Marian@student.tuiasi.ro} >>> licitez:6611
+2020-09-09 16:41:05: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:40:50] /127.0.0.1:37776 {Name: Gogu, Telephone: 0727793474, Email: Gogu@yahoo.ro} >>> licitez:3495
+2020-09-09 16:41:05: [AuctioneerMicroservice]: Am trimis toate ofertele catre MessageProcessor.
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37758 {Name: Gigel, Telephone: 0726159235, Email: Pete@tuiasi.ro} >>> licitez:7607
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37760 {Name: Marian, Telephone: 0727568900, Email: Gogu@gmail.com} >>> licitez:6162
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37762 {Name: Marian, Telephone: 0729088655, Email: Andrei@yahoo.ro} >>> licitez:4142
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37764 {Name: Andreea, Telephone: 0723850609, Email: Marian@abc.com} >>> licitez:7911
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37766 {Name: Andrei, Telephone: 0721452862, Email: Andreea@yahoo.ro} >>> licitez:1410
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37768 {Name: Gigel, Telephone: 0721643997, Email: Bianca@abc.com} >>> licitez:3443
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37770 {Name: George, Telephone: 0728625259, Email: Marian@yahoo.ro} >>> licitez:5404
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37772 {Name: Andreea, Telephone: 0721704787, Email: Bianca@student.tuiasi.ro} >>> licitez:8825
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37774 {Name: Andreea, Telephone: 0725069763, Email: Marian@student.tuiasi.ro} >>> licitez:6611
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37776 {Name: Gogu, Telephone: 0727793474, Email: Gogu@yahoo.ro} >>> licitez:3495
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: Trimit urmatoarele mesaje:
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37758 {Name: Gigel, Telephone: 0726159235, Email: Pete@tuiasi.ro} >>> licitez:7607
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37760 {Name: Marian, Telephone: 0727568900, Email: Gogu@gmail.com} >>> licitez:6162
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37762 {Name: Marian, Telephone: 0729088655, Email: Andrei@yahoo.ro} >>> licitez:4142
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37764 {Name: Andreea, Telephone: 0723850609, Email: Marian@abc.com} >>> licitez:7911
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37766 {Name: Andrei, Telephone: 0721452862, Email: Andreea@yahoo.ro} >>> licitez:1410
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37768 {Name: Gigel, Telephone: 0721643997, Email: Bianca@abc.com} >>> licitez:3443
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37770 {Name: George, Telephone: 0728625259, Email: Marian@yahoo.ro} >>> licitez:5404
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37772 {Name: Andreea, Telephone: 0721704787, Email: Bianca@student.tuiasi.ro} >>> licitez:8825
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37774 {Name: Andreea, Telephone: 0725069763, Email: Marian@student.tuiasi.ro} >>> licitez:6611
+2020-09-09 16:41:06: [MessageProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37776 {Name: Gogu, Telephone: 0727793474, Email: Gogu@yahoo.ro} >>> licitez:3495
+2020-09-09 16:41:11: [BiddingProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37758 {Name: Gigel, Telephone: 0726159235, Email: Pete@tuiasi.ro} >>> licitez:7607
+2020-09-09 16:41:11: [BiddingProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37760 {Name: Marian, Telephone: 0727568900, Email: Gogu@gmail.com} >>> licitez:6162
+2020-09-09 16:41:11: [BiddingProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37762 {Name: Marian, Telephone: 0729088655, Email: Andrei@yahoo.ro} >>> licitez:4142
+2020-09-09 16:41:11: [BiddingProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37764 {Name: Andreea, Telephone: 0723850609, Email: Marian@abc.com} >>> licitez:7911
+2020-09-09 16:41:11: [BiddingProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37766 {Name: Andrei, Telephone: 0721452862, Email: Andreea@yahoo.ro} >>> licitez:1410
+2020-09-09 16:41:11: [BiddingProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37768 {Name: Gigel, Telephone: 0721643997, Email: Bianca@abc.com} >>> licitez:3443
+2020-09-09 16:41:11: [BiddingProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37770 {Name: George, Telephone: 0728625259, Email: Marian@yahoo.ro} >>> licitez:5404
+2020-09-09 16:41:11: [BiddingProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37772 {Name: Andreea, Telephone: 0721704787, Email: Bianca@student.tuiasi.ro} >>> licitez:8825
+2020-09-09 16:41:11: [BiddingProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37774 {Name: Andreea, Telephone: 0725069763, Email: Marian@student.tuiasi.ro} >>> licitez:6611
+2020-09-09 16:41:11: [BiddingProcessorMicroservice]: [09-09-2020 16:40:50] /127.0.0.1:37776 {Name: Gogu, Telephone: 0727793474, Email: Gogu@yahoo.ro} >>> licitez:3495
+2020-09-09 16:41:21: [AuctioneerMicroservice]: Nu ma pot conecta la BiddingProcessor!
+2020-09-09 16:41:21: [BidderMicroservice]: [37776] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:41:21: [BidderMicroservice]: [37772] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:41:21: [BidderMicroservice]: [37760] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:41:21: [BidderMicroservice]: [37774] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:41:21: [BidderMicroservice]: [37770] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:41:21: [BidderMicroservice]: [37766] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:41:21: [BidderMicroservice]: [37768] Eroare: java.net.SocketException: Connection reset
+2020-09-09 16:41:21: [BidderMicroservice]: [37762] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:41:21: [BidderMicroservice]: [37764] Eroare: java.net.SocketException: Connection reset
+2020-09-09 16:41:21: [BidderMicroservice]: [37758] Eroare: java.net.SocketException: Connection reset
+2020-09-09 16:43:17: [MessageProcessorMicroservice]: se executa pe portul:1600
+2020-09-09 16:43:17: [MessageProcessorMicroservice]: Se asteapta mesaje pentru procesare...
+2020-09-09 16:43:17: [AuctioneerMicroservice]: se executa pe portul: 1500
+2020-09-09 16:43:17: [AuctioneerMicroservice]: Se asteapta oferte de la bidderi...
+2020-09-09 16:43:17: [BiddingProcessorMicroservice]: se executa pe portul:1700
+2020-09-09 16:43:17: [BiddingProcessorMicroservice]: Se asteapta ofertele pentru finalizarea licitatiei...
+2020-09-09 16:43:19: [BidderMicroservice]: 37850 M-am conectat la Auctioneer!
+2020-09-09 16:43:19: [BidderMicroservice]: 37858 M-am conectat la Auctioneer!
+2020-09-09 16:43:19: [BidderMicroservice]: 37854 M-am conectat la Auctioneer!
+2020-09-09 16:43:19: [BidderMicroservice]: 37848 M-am conectat la Auctioneer!
+2020-09-09 16:43:19: [BidderMicroservice]: 37856 M-am conectat la Auctioneer!
+2020-09-09 16:43:19: [BidderMicroservice]: 37852 M-am conectat la Auctioneer!
+2020-09-09 16:43:19: [BidderMicroservice]: 37864 M-am conectat la Auctioneer!
+2020-09-09 16:43:19: [BidderMicroservice]: 37860 M-am conectat la Auctioneer!
+2020-09-09 16:43:19: [BidderMicroservice]: 37866 M-am conectat la Auctioneer!
+2020-09-09 16:43:19: [BidderMicroservice]: [37850] Astept rezultatul licitatiei...
+2020-09-09 16:43:19: [BidderMicroservice]: 37868 M-am conectat la Auctioneer!
+2020-09-09 16:43:20: [BidderMicroservice]: [37848] Astept rezultatul licitatiei...
+2020-09-09 16:43:20: [BidderMicroservice]: [37858] Astept rezultatul licitatiei...
+2020-09-09 16:43:20: [BidderMicroservice]: [37854] Astept rezultatul licitatiei...
+2020-09-09 16:43:20: [BidderMicroservice]: [37864] Astept rezultatul licitatiei...
+2020-09-09 16:43:20: [BidderMicroservice]: [37856] Astept rezultatul licitatiei...
+2020-09-09 16:43:20: [AuctioneerMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37848 {Name: Andreea, Telephone: 0727670740, Email: Bula@abc.com} >>> licitez:2544
+2020-09-09 16:43:20: [BidderMicroservice]: [37866] Astept rezultatul licitatiei...
+2020-09-09 16:43:20: [AuctioneerMicroservice]: [09-09-2020 16:43:19] /127.0.0.1:37850 {Name: Pete, Telephone: 0722589557, Email: Andrei@abc.com} >>> licitez:6364
+2020-09-09 16:43:20: [BidderMicroservice]: [37860] Astept rezultatul licitatiei...
+2020-09-09 16:43:20: [AuctioneerMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37852 {Name: Marian, Telephone: 0722722551, Email: Andreea@gmail.com} >>> licitez:9209
+2020-09-09 16:43:20: [AuctioneerMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37854 {Name: Bula, Telephone: 0721117560, Email: Gogu@gmail.com} >>> licitez:2358
+2020-09-09 16:43:20: [BidderMicroservice]: [37852] Astept rezultatul licitatiei...
+2020-09-09 16:43:20: [AuctioneerMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37856 {Name: George, Telephone: 0724238604, Email: Pete@gmail.com} >>> licitez:1817
+2020-09-09 16:43:20: [AuctioneerMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37858 {Name: George, Telephone: 0723086708, Email: Bula@abc.com} >>> licitez:1744
+2020-09-09 16:43:20: [AuctioneerMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37860 {Name: Gigel, Telephone: 0726410812, Email: Marian@abc.com} >>> licitez:9562
+2020-09-09 16:43:20: [AuctioneerMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37864 {Name: George, Telephone: 0727588034, Email: Gigel@gmail.com} >>> licitez:6023
+2020-09-09 16:43:20: [AuctioneerMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37866 {Name: Bula, Telephone: 0725530462, Email: Andrei@abc.com} >>> licitez:1818
+2020-09-09 16:43:20: [BidderMicroservice]: [37868] Astept rezultatul licitatiei...
+2020-09-09 16:43:20: [AuctioneerMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37868 {Name: Bianca, Telephone: 0725815407, Email: Gogu@abc.com} >>> licitez:2740
+2020-09-09 16:43:35: [AuctioneerMicroservice]: Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+2020-09-09 16:43:35: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:43:20] /127.0.0.1:37848 {Name: Andreea, Telephone: 0727670740, Email: Bula@abc.com} >>> licitez:2544
+2020-09-09 16:43:35: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:43:19] /127.0.0.1:37850 {Name: Pete, Telephone: 0722589557, Email: Andrei@abc.com} >>> licitez:6364
+2020-09-09 16:43:35: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:43:20] /127.0.0.1:37852 {Name: Marian, Telephone: 0722722551, Email: Andreea@gmail.com} >>> licitez:9209
+2020-09-09 16:43:35: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:43:20] /127.0.0.1:37854 {Name: Bula, Telephone: 0721117560, Email: Gogu@gmail.com} >>> licitez:2358
+2020-09-09 16:43:35: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:43:20] /127.0.0.1:37856 {Name: George, Telephone: 0724238604, Email: Pete@gmail.com} >>> licitez:1817
+2020-09-09 16:43:35: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:43:20] /127.0.0.1:37858 {Name: George, Telephone: 0723086708, Email: Bula@abc.com} >>> licitez:1744
+2020-09-09 16:43:35: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:43:20] /127.0.0.1:37860 {Name: Gigel, Telephone: 0726410812, Email: Marian@abc.com} >>> licitez:9562
+2020-09-09 16:43:35: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:43:20] /127.0.0.1:37864 {Name: George, Telephone: 0727588034, Email: Gigel@gmail.com} >>> licitez:6023
+2020-09-09 16:43:35: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:43:20] /127.0.0.1:37866 {Name: Bula, Telephone: 0725530462, Email: Andrei@abc.com} >>> licitez:1818
+2020-09-09 16:43:35: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:43:20] /127.0.0.1:37868 {Name: Bianca, Telephone: 0725815407, Email: Gogu@abc.com} >>> licitez:2740
+2020-09-09 16:43:35: [AuctioneerMicroservice]: Am trimis toate ofertele catre MessageProcessor.
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37848 {Name: Andreea, Telephone: 0727670740, Email: Bula@abc.com} >>> licitez:2544
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:19] /127.0.0.1:37850 {Name: Pete, Telephone: 0722589557, Email: Andrei@abc.com} >>> licitez:6364
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37852 {Name: Marian, Telephone: 0722722551, Email: Andreea@gmail.com} >>> licitez:9209
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37854 {Name: Bula, Telephone: 0721117560, Email: Gogu@gmail.com} >>> licitez:2358
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37856 {Name: George, Telephone: 0724238604, Email: Pete@gmail.com} >>> licitez:1817
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37858 {Name: George, Telephone: 0723086708, Email: Bula@abc.com} >>> licitez:1744
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37860 {Name: Gigel, Telephone: 0726410812, Email: Marian@abc.com} >>> licitez:9562
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37864 {Name: George, Telephone: 0727588034, Email: Gigel@gmail.com} >>> licitez:6023
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37866 {Name: Bula, Telephone: 0725530462, Email: Andrei@abc.com} >>> licitez:1818
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37868 {Name: Bianca, Telephone: 0725815407, Email: Gogu@abc.com} >>> licitez:2740
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: Trimit urmatoarele mesaje:
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37848 {Name: Andreea, Telephone: 0727670740, Email: Bula@abc.com} >>> licitez:2544
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:19] /127.0.0.1:37850 {Name: Pete, Telephone: 0722589557, Email: Andrei@abc.com} >>> licitez:6364
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37852 {Name: Marian, Telephone: 0722722551, Email: Andreea@gmail.com} >>> licitez:9209
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37854 {Name: Bula, Telephone: 0721117560, Email: Gogu@gmail.com} >>> licitez:2358
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37856 {Name: George, Telephone: 0724238604, Email: Pete@gmail.com} >>> licitez:1817
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37858 {Name: George, Telephone: 0723086708, Email: Bula@abc.com} >>> licitez:1744
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37860 {Name: Gigel, Telephone: 0726410812, Email: Marian@abc.com} >>> licitez:9562
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37864 {Name: George, Telephone: 0727588034, Email: Gigel@gmail.com} >>> licitez:6023
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37866 {Name: Bula, Telephone: 0725530462, Email: Andrei@abc.com} >>> licitez:1818
+2020-09-09 16:43:35: [MessageProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37868 {Name: Bianca, Telephone: 0725815407, Email: Gogu@abc.com} >>> licitez:2740
+2020-09-09 16:43:35: [BiddingProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37848 {Name: Andreea, Telephone: 0727670740, Email: Bula@abc.com} >>> licitez:2544
+2020-09-09 16:43:35: [BiddingProcessorMicroservice]: [09-09-2020 16:43:19] /127.0.0.1:37850 {Name: Pete, Telephone: 0722589557, Email: Andrei@abc.com} >>> licitez:6364
+2020-09-09 16:43:35: [BiddingProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37852 {Name: Marian, Telephone: 0722722551, Email: Andreea@gmail.com} >>> licitez:9209
+2020-09-09 16:43:35: [BiddingProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37854 {Name: Bula, Telephone: 0721117560, Email: Gogu@gmail.com} >>> licitez:2358
+2020-09-09 16:43:35: [BiddingProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37856 {Name: George, Telephone: 0724238604, Email: Pete@gmail.com} >>> licitez:1817
+2020-09-09 16:43:35: [BiddingProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37858 {Name: George, Telephone: 0723086708, Email: Bula@abc.com} >>> licitez:1744
+2020-09-09 16:43:35: [BiddingProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37860 {Name: Gigel, Telephone: 0726410812, Email: Marian@abc.com} >>> licitez:9562
+2020-09-09 16:43:35: [BiddingProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37864 {Name: George, Telephone: 0727588034, Email: Gigel@gmail.com} >>> licitez:6023
+2020-09-09 16:43:35: [BiddingProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37866 {Name: Bula, Telephone: 0725530462, Email: Andrei@abc.com} >>> licitez:1818
+2020-09-09 16:43:35: [BiddingProcessorMicroservice]: [09-09-2020 16:43:20] /127.0.0.1:37868 {Name: Bianca, Telephone: 0725815407, Email: Gogu@abc.com} >>> licitez:2740
+2020-09-09 16:43:35: [BiddingProcessorMicroservice]: Castigatorul este: /127.0.0.1:37860
+2020-09-09 16:43:35: [BiddingProcessorMicroservice]: Am anuntat castigatorul catre AuctioneerMicroservice.
+2020-09-09 16:43:35: [AuctioneerMicroservice]: Nu ma pot conecta la BiddingProcessor!
+2020-09-09 16:43:35: [BidderMicroservice]: [37850] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:43:35: [BidderMicroservice]: [37866] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:43:35: [BidderMicroservice]: [37860] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:43:35: [BidderMicroservice]: [37856] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:43:35: [BidderMicroservice]: [37854] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:43:35: [BidderMicroservice]: [37852] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:43:35: [BidderMicroservice]: [37868] Eroare: java.net.SocketException: Connection reset
+2020-09-09 16:43:35: [BidderMicroservice]: [37864] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:43:35: [BidderMicroservice]: [37848] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:43:35: [BidderMicroservice]: [37858] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:44:28: [MessageProcessorMicroservice]: se executa pe portul:1600
+2020-09-09 16:44:28: [MessageProcessorMicroservice]: Se asteapta mesaje pentru procesare...
+2020-09-09 16:44:28: [BiddingProcessorMicroservice]: se executa pe portul:1700
+2020-09-09 16:44:28: [BiddingProcessorMicroservice]: Se asteapta ofertele pentru finalizarea licitatiei...
+2020-09-09 16:44:51: [AuctioneerMicroservice]: se executa pe portul: 1500
+2020-09-09 16:44:52: [AuctioneerMicroservice]: Se asteapta oferte de la bidderi...
+2020-09-09 16:44:54: [BidderMicroservice]: 37972 M-am conectat la Auctioneer!
+2020-09-09 16:44:54: [BidderMicroservice]: 37978 M-am conectat la Auctioneer!
+2020-09-09 16:44:54: [BidderMicroservice]: 37980 M-am conectat la Auctioneer!
+2020-09-09 16:44:55: [BidderMicroservice]: 37976 M-am conectat la Auctioneer!
+2020-09-09 16:44:55: [BidderMicroservice]: 37984 M-am conectat la Auctioneer!
+2020-09-09 16:44:55: [BidderMicroservice]: 37974 M-am conectat la Auctioneer!
+2020-09-09 16:44:55: [BidderMicroservice]: 37986 M-am conectat la Auctioneer!
+2020-09-09 16:44:55: [BidderMicroservice]: 37988 M-am conectat la Auctioneer!
+2020-09-09 16:44:55: [BidderMicroservice]: 37990 M-am conectat la Auctioneer!
+2020-09-09 16:44:55: [BidderMicroservice]: [37972] Astept rezultatul licitatiei...
+2020-09-09 16:44:55: [BidderMicroservice]: 37992 M-am conectat la Auctioneer!
+2020-09-09 16:44:55: [BidderMicroservice]: [37976] Astept rezultatul licitatiei...
+2020-09-09 16:44:55: [AuctioneerMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37972 {Name: Gogu, Telephone: 0722377804, Email: Gigel@abc.com} >>> licitez:7002
+2020-09-09 16:44:55: [BidderMicroservice]: [37984] Astept rezultatul licitatiei...
+2020-09-09 16:44:55: [AuctioneerMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37974 {Name: Pete, Telephone: 0725738328, Email: Andrei@yahoo.ro} >>> licitez:1036
+2020-09-09 16:44:55: [AuctioneerMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37976 {Name: Gogu, Telephone: 0722713239, Email: Bula@abc.com} >>> licitez:4049
+2020-09-09 16:44:55: [BidderMicroservice]: [37974] Astept rezultatul licitatiei...
+2020-09-09 16:44:55: [BidderMicroservice]: [37986] Astept rezultatul licitatiei...
+2020-09-09 16:44:55: [BidderMicroservice]: [37980] Astept rezultatul licitatiei...
+2020-09-09 16:44:55: [AuctioneerMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37978 {Name: Gigel, Telephone: 0723147144, Email: Marian@tuiasi.ro} >>> licitez:9645
+2020-09-09 16:44:55: [AuctioneerMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37980 {Name: Gigel, Telephone: 0726652927, Email: Gigel@yahoo.ro} >>> licitez:2633
+2020-09-09 16:44:55: [BidderMicroservice]: [37978] Astept rezultatul licitatiei...
+2020-09-09 16:44:55: [AuctioneerMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37984 {Name: Bula, Telephone: 0726048502, Email: Andreea@tuiasi.ro} >>> licitez:8841
+2020-09-09 16:44:55: [AuctioneerMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37986 {Name: Marian, Telephone: 0722233413, Email: Pete@tuiasi.ro} >>> licitez:5227
+2020-09-09 16:44:55: [AuctioneerMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37988 {Name: Gogu, Telephone: 0728357919, Email: Gigel@tuiasi.ro} >>> licitez:6612
+2020-09-09 16:44:55: [BidderMicroservice]: [37988] Astept rezultatul licitatiei...
+2020-09-09 16:44:55: [AuctioneerMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37990 {Name: Andreea, Telephone: 0724185402, Email: Bianca@gmail.com} >>> licitez:1796
+2020-09-09 16:44:55: [BidderMicroservice]: [37990] Astept rezultatul licitatiei...
+2020-09-09 16:44:55: [BidderMicroservice]: [37992] Astept rezultatul licitatiei...
+2020-09-09 16:44:55: [AuctioneerMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37992 {Name: Bula, Telephone: 0721423715, Email: Marian@student.tuiasi.ro} >>> licitez:9516
+2020-09-09 16:45:10: [AuctioneerMicroservice]: Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+2020-09-09 16:45:10: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:44:55] /127.0.0.1:37972 {Name: Gogu, Telephone: 0722377804, Email: Gigel@abc.com} >>> licitez:7002
+2020-09-09 16:45:10: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:44:55] /127.0.0.1:37974 {Name: Pete, Telephone: 0725738328, Email: Andrei@yahoo.ro} >>> licitez:1036
+2020-09-09 16:45:10: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:44:55] /127.0.0.1:37976 {Name: Gogu, Telephone: 0722713239, Email: Bula@abc.com} >>> licitez:4049
+2020-09-09 16:45:10: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:44:55] /127.0.0.1:37978 {Name: Gigel, Telephone: 0723147144, Email: Marian@tuiasi.ro} >>> licitez:9645
+2020-09-09 16:45:11: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:44:55] /127.0.0.1:37980 {Name: Gigel, Telephone: 0726652927, Email: Gigel@yahoo.ro} >>> licitez:2633
+2020-09-09 16:45:11: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:44:55] /127.0.0.1:37984 {Name: Bula, Telephone: 0726048502, Email: Andreea@tuiasi.ro} >>> licitez:8841
+2020-09-09 16:45:11: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:44:55] /127.0.0.1:37986 {Name: Marian, Telephone: 0722233413, Email: Pete@tuiasi.ro} >>> licitez:5227
+2020-09-09 16:45:11: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:44:55] /127.0.0.1:37988 {Name: Gogu, Telephone: 0728357919, Email: Gigel@tuiasi.ro} >>> licitez:6612
+2020-09-09 16:45:11: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:44:55] /127.0.0.1:37990 {Name: Andreea, Telephone: 0724185402, Email: Bianca@gmail.com} >>> licitez:1796
+2020-09-09 16:45:11: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:44:55] /127.0.0.1:37992 {Name: Bula, Telephone: 0721423715, Email: Marian@student.tuiasi.ro} >>> licitez:9516
+2020-09-09 16:45:11: [AuctioneerMicroservice]: Am trimis toate ofertele catre MessageProcessor.
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37972 {Name: Gogu, Telephone: 0722377804, Email: Gigel@abc.com} >>> licitez:7002
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37974 {Name: Pete, Telephone: 0725738328, Email: Andrei@yahoo.ro} >>> licitez:1036
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37976 {Name: Gogu, Telephone: 0722713239, Email: Bula@abc.com} >>> licitez:4049
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37978 {Name: Gigel, Telephone: 0723147144, Email: Marian@tuiasi.ro} >>> licitez:9645
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37980 {Name: Gigel, Telephone: 0726652927, Email: Gigel@yahoo.ro} >>> licitez:2633
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37984 {Name: Bula, Telephone: 0726048502, Email: Andreea@tuiasi.ro} >>> licitez:8841
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37986 {Name: Marian, Telephone: 0722233413, Email: Pete@tuiasi.ro} >>> licitez:5227
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37988 {Name: Gogu, Telephone: 0728357919, Email: Gigel@tuiasi.ro} >>> licitez:6612
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37990 {Name: Andreea, Telephone: 0724185402, Email: Bianca@gmail.com} >>> licitez:1796
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37992 {Name: Bula, Telephone: 0721423715, Email: Marian@student.tuiasi.ro} >>> licitez:9516
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: Trimit urmatoarele mesaje:
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37972 {Name: Gogu, Telephone: 0722377804, Email: Gigel@abc.com} >>> licitez:7002
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37974 {Name: Pete, Telephone: 0725738328, Email: Andrei@yahoo.ro} >>> licitez:1036
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37976 {Name: Gogu, Telephone: 0722713239, Email: Bula@abc.com} >>> licitez:4049
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37978 {Name: Gigel, Telephone: 0723147144, Email: Marian@tuiasi.ro} >>> licitez:9645
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37980 {Name: Gigel, Telephone: 0726652927, Email: Gigel@yahoo.ro} >>> licitez:2633
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37984 {Name: Bula, Telephone: 0726048502, Email: Andreea@tuiasi.ro} >>> licitez:8841
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37986 {Name: Marian, Telephone: 0722233413, Email: Pete@tuiasi.ro} >>> licitez:5227
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37988 {Name: Gogu, Telephone: 0728357919, Email: Gigel@tuiasi.ro} >>> licitez:6612
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37990 {Name: Andreea, Telephone: 0724185402, Email: Bianca@gmail.com} >>> licitez:1796
+2020-09-09 16:45:11: [MessageProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37992 {Name: Bula, Telephone: 0721423715, Email: Marian@student.tuiasi.ro} >>> licitez:9516
+2020-09-09 16:45:11: [BiddingProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37972 {Name: Gogu, Telephone: 0722377804, Email: Gigel@abc.com} >>> licitez:7002
+2020-09-09 16:45:11: [BiddingProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37974 {Name: Pete, Telephone: 0725738328, Email: Andrei@yahoo.ro} >>> licitez:1036
+2020-09-09 16:45:11: [BiddingProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37976 {Name: Gogu, Telephone: 0722713239, Email: Bula@abc.com} >>> licitez:4049
+2020-09-09 16:45:11: [BiddingProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37978 {Name: Gigel, Telephone: 0723147144, Email: Marian@tuiasi.ro} >>> licitez:9645
+2020-09-09 16:45:11: [BiddingProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37980 {Name: Gigel, Telephone: 0726652927, Email: Gigel@yahoo.ro} >>> licitez:2633
+2020-09-09 16:45:11: [BiddingProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37984 {Name: Bula, Telephone: 0726048502, Email: Andreea@tuiasi.ro} >>> licitez:8841
+2020-09-09 16:45:11: [BiddingProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37986 {Name: Marian, Telephone: 0722233413, Email: Pete@tuiasi.ro} >>> licitez:5227
+2020-09-09 16:45:11: [BiddingProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37988 {Name: Gogu, Telephone: 0728357919, Email: Gigel@tuiasi.ro} >>> licitez:6612
+2020-09-09 16:45:11: [BiddingProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37990 {Name: Andreea, Telephone: 0724185402, Email: Bianca@gmail.com} >>> licitez:1796
+2020-09-09 16:45:11: [BiddingProcessorMicroservice]: [09-09-2020 16:44:55] /127.0.0.1:37992 {Name: Bula, Telephone: 0721423715, Email: Marian@student.tuiasi.ro} >>> licitez:9516
+2020-09-09 16:45:11: [BiddingProcessorMicroservice]: Castigatorul este: /127.0.0.1:37978
+2020-09-09 16:45:11: [BiddingProcessorMicroservice]: Am anuntat castigatorul catre AuctioneerMicroservice.
+2020-09-09 16:46:25: [AuctioneerMicroservice]: Nu ma pot conecta la BiddingProcessor!
+2020-09-09 16:46:25: [BidderMicroservice]: [37986] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:46:25: [BidderMicroservice]: [37990] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:46:25: [BidderMicroservice]: [37984] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:46:25: [BidderMicroservice]: [37980] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:46:25: [BidderMicroservice]: [37988] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:46:25: [BidderMicroservice]: [37976] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:46:25: [BidderMicroservice]: [37992] Eroare: java.net.SocketException: Connection reset
+2020-09-09 16:46:25: [BidderMicroservice]: [37978] Eroare: java.net.SocketException: Connection reset
+2020-09-09 16:46:25: [BidderMicroservice]: [37974] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:46:25: [BidderMicroservice]: [37972] Eroare: java.net.SocketException: Connection reset
+2020-09-09 16:47:28: [AuctioneerMicroservice]: se executa pe portul: 1500
+2020-09-09 16:47:28: [AuctioneerMicroservice]: Se asteapta oferte de la bidderi...
+2020-09-09 16:47:29: [MessageProcessorMicroservice]: se executa pe portul:1600
+2020-09-09 16:47:29: [MessageProcessorMicroservice]: Se asteapta mesaje pentru procesare...
+2020-09-09 16:47:29: [BiddingProcessorMicroservice]: se executa pe portul:1700
+2020-09-09 16:47:29: [BiddingProcessorMicroservice]: Se asteapta ofertele pentru finalizarea licitatiei...
+2020-09-09 16:47:33: [BidderMicroservice]: 38118 M-am conectat la Auctioneer!
+2020-09-09 16:47:33: [BidderMicroservice]: 38120 M-am conectat la Auctioneer!
+2020-09-09 16:47:34: [BidderMicroservice]: 38122 M-am conectat la Auctioneer!
+2020-09-09 16:47:34: [BidderMicroservice]: 38124 M-am conectat la Auctioneer!
+2020-09-09 16:47:34: [BidderMicroservice]: 38136 M-am conectat la Auctioneer!
+2020-09-09 16:47:34: [BidderMicroservice]: [38118] Astept rezultatul licitatiei...
+2020-09-09 16:47:34: [BidderMicroservice]: 38128 M-am conectat la Auctioneer!
+2020-09-09 16:47:34: [BidderMicroservice]: 38130 M-am conectat la Auctioneer!
+2020-09-09 16:47:34: [BidderMicroservice]: 38132 M-am conectat la Auctioneer!
+2020-09-09 16:47:34: [BidderMicroservice]: 38134 M-am conectat la Auctioneer!
+2020-09-09 16:47:34: [BidderMicroservice]: 38126 M-am conectat la Auctioneer!
+2020-09-09 16:47:34: [BidderMicroservice]: [38120] Astept rezultatul licitatiei...
+2020-09-09 16:47:34: [AuctioneerMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38118 {Name: Gigel, Telephone: 0721639916, Email: Gogu@tuiasi.ro} >>> licitez:7770
+2020-09-09 16:47:34: [AuctioneerMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38120 {Name: Gigel, Telephone: 0724127735, Email: Marian@abc.com} >>> licitez:3639
+2020-09-09 16:47:34: [BidderMicroservice]: [38124] Astept rezultatul licitatiei...
+2020-09-09 16:47:34: [AuctioneerMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38122 {Name: Gogu, Telephone: 0722923934, Email: Gogu@gmail.com} >>> licitez:5309
+2020-09-09 16:47:34: [AuctioneerMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38124 {Name: Pete, Telephone: 0724747026, Email: Gogu@gmail.com} >>> licitez:3307
+2020-09-09 16:47:34: [BidderMicroservice]: [38122] Astept rezultatul licitatiei...
+2020-09-09 16:47:34: [BidderMicroservice]: [38136] Astept rezultatul licitatiei...
+2020-09-09 16:47:35: [BidderMicroservice]: [38132] Astept rezultatul licitatiei...
+2020-09-09 16:47:35: [BidderMicroservice]: [38128] Astept rezultatul licitatiei...
+2020-09-09 16:47:35: [BidderMicroservice]: [38134] Astept rezultatul licitatiei...
+2020-09-09 16:47:35: [BidderMicroservice]: [38130] Astept rezultatul licitatiei...
+2020-09-09 16:47:35: [BidderMicroservice]: [38126] Astept rezultatul licitatiei...
+2020-09-09 16:47:35: [AuctioneerMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38126 {Name: Bula, Telephone: 0723309066, Email: Gigel@abc.com} >>> licitez:9774
+2020-09-09 16:47:35: [AuctioneerMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38128 {Name: Bianca, Telephone: 0724496221, Email: Andreea@abc.com} >>> licitez:1309
+2020-09-09 16:47:35: [AuctioneerMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38130 {Name: Bula, Telephone: 0724592136, Email: Bula@student.tuiasi.ro} >>> licitez:2301
+2020-09-09 16:47:35: [AuctioneerMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38132 {Name: Marian, Telephone: 0727744343, Email: Pete@abc.com} >>> licitez:4030
+2020-09-09 16:47:35: [AuctioneerMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38134 {Name: Bula, Telephone: 0721634662, Email: George@student.tuiasi.ro} >>> licitez:4271
+2020-09-09 16:47:35: [AuctioneerMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38136 {Name: Bula, Telephone: 0724042898, Email: Gogu@gmail.com} >>> licitez:8730
+2020-09-09 16:47:50: [AuctioneerMicroservice]: Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+2020-09-09 16:47:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:47:34] /127.0.0.1:38118 {Name: Gigel, Telephone: 0721639916, Email: Gogu@tuiasi.ro} >>> licitez:7770
+2020-09-09 16:47:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:47:34] /127.0.0.1:38120 {Name: Gigel, Telephone: 0724127735, Email: Marian@abc.com} >>> licitez:3639
+2020-09-09 16:47:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:47:34] /127.0.0.1:38122 {Name: Gogu, Telephone: 0722923934, Email: Gogu@gmail.com} >>> licitez:5309
+2020-09-09 16:47:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:47:34] /127.0.0.1:38124 {Name: Pete, Telephone: 0724747026, Email: Gogu@gmail.com} >>> licitez:3307
+2020-09-09 16:47:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:47:35] /127.0.0.1:38126 {Name: Bula, Telephone: 0723309066, Email: Gigel@abc.com} >>> licitez:9774
+2020-09-09 16:47:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:47:35] /127.0.0.1:38128 {Name: Bianca, Telephone: 0724496221, Email: Andreea@abc.com} >>> licitez:1309
+2020-09-09 16:47:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:47:35] /127.0.0.1:38130 {Name: Bula, Telephone: 0724592136, Email: Bula@student.tuiasi.ro} >>> licitez:2301
+2020-09-09 16:47:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:47:35] /127.0.0.1:38132 {Name: Marian, Telephone: 0727744343, Email: Pete@abc.com} >>> licitez:4030
+2020-09-09 16:47:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:47:35] /127.0.0.1:38134 {Name: Bula, Telephone: 0721634662, Email: George@student.tuiasi.ro} >>> licitez:4271
+2020-09-09 16:47:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:47:34] /127.0.0.1:38136 {Name: Bula, Telephone: 0724042898, Email: Gogu@gmail.com} >>> licitez:8730
+2020-09-09 16:47:50: [AuctioneerMicroservice]: Am trimis toate ofertele catre MessageProcessor.
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38118 {Name: Gigel, Telephone: 0721639916, Email: Gogu@tuiasi.ro} >>> licitez:7770
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38120 {Name: Gigel, Telephone: 0724127735, Email: Marian@abc.com} >>> licitez:3639
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38122 {Name: Gogu, Telephone: 0722923934, Email: Gogu@gmail.com} >>> licitez:5309
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38124 {Name: Pete, Telephone: 0724747026, Email: Gogu@gmail.com} >>> licitez:3307
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38126 {Name: Bula, Telephone: 0723309066, Email: Gigel@abc.com} >>> licitez:9774
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38128 {Name: Bianca, Telephone: 0724496221, Email: Andreea@abc.com} >>> licitez:1309
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38130 {Name: Bula, Telephone: 0724592136, Email: Bula@student.tuiasi.ro} >>> licitez:2301
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38132 {Name: Marian, Telephone: 0727744343, Email: Pete@abc.com} >>> licitez:4030
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38134 {Name: Bula, Telephone: 0721634662, Email: George@student.tuiasi.ro} >>> licitez:4271
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38136 {Name: Bula, Telephone: 0724042898, Email: Gogu@gmail.com} >>> licitez:8730
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: Trimit urmatoarele mesaje:
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38118 {Name: Gigel, Telephone: 0721639916, Email: Gogu@tuiasi.ro} >>> licitez:7770
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38120 {Name: Gigel, Telephone: 0724127735, Email: Marian@abc.com} >>> licitez:3639
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38122 {Name: Gogu, Telephone: 0722923934, Email: Gogu@gmail.com} >>> licitez:5309
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38124 {Name: Pete, Telephone: 0724747026, Email: Gogu@gmail.com} >>> licitez:3307
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38126 {Name: Bula, Telephone: 0723309066, Email: Gigel@abc.com} >>> licitez:9774
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38128 {Name: Bianca, Telephone: 0724496221, Email: Andreea@abc.com} >>> licitez:1309
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38130 {Name: Bula, Telephone: 0724592136, Email: Bula@student.tuiasi.ro} >>> licitez:2301
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38132 {Name: Marian, Telephone: 0727744343, Email: Pete@abc.com} >>> licitez:4030
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38134 {Name: Bula, Telephone: 0721634662, Email: George@student.tuiasi.ro} >>> licitez:4271
+2020-09-09 16:47:50: [MessageProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38136 {Name: Bula, Telephone: 0724042898, Email: Gogu@gmail.com} >>> licitez:8730
+2020-09-09 16:47:50: [BiddingProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38118 {Name: Gigel, Telephone: 0721639916, Email: Gogu@tuiasi.ro} >>> licitez:7770
+2020-09-09 16:47:50: [BiddingProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38120 {Name: Gigel, Telephone: 0724127735, Email: Marian@abc.com} >>> licitez:3639
+2020-09-09 16:47:50: [BiddingProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38122 {Name: Gogu, Telephone: 0722923934, Email: Gogu@gmail.com} >>> licitez:5309
+2020-09-09 16:47:50: [BiddingProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38124 {Name: Pete, Telephone: 0724747026, Email: Gogu@gmail.com} >>> licitez:3307
+2020-09-09 16:47:50: [BiddingProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38126 {Name: Bula, Telephone: 0723309066, Email: Gigel@abc.com} >>> licitez:9774
+2020-09-09 16:47:50: [BiddingProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38128 {Name: Bianca, Telephone: 0724496221, Email: Andreea@abc.com} >>> licitez:1309
+2020-09-09 16:47:50: [BiddingProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38130 {Name: Bula, Telephone: 0724592136, Email: Bula@student.tuiasi.ro} >>> licitez:2301
+2020-09-09 16:47:50: [BiddingProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38132 {Name: Marian, Telephone: 0727744343, Email: Pete@abc.com} >>> licitez:4030
+2020-09-09 16:47:50: [BiddingProcessorMicroservice]: [09-09-2020 16:47:35] /127.0.0.1:38134 {Name: Bula, Telephone: 0721634662, Email: George@student.tuiasi.ro} >>> licitez:4271
+2020-09-09 16:47:50: [BiddingProcessorMicroservice]: [09-09-2020 16:47:34] /127.0.0.1:38136 {Name: Bula, Telephone: 0724042898, Email: Gogu@gmail.com} >>> licitez:8730
+2020-09-09 16:47:50: [BiddingProcessorMicroservice]: Castigatorul este: /127.0.0.1:38126
+2020-09-09 16:47:50: [BiddingProcessorMicroservice]: Am anuntat castigatorul catre AuctioneerMicroservice.
+2020-09-09 16:48:21: [AuctioneerMicroservice]: Nu ma pot conecta la BiddingProcessor!
+2020-09-09 16:48:21: [BidderMicroservice]: [38134] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:48:21: [BidderMicroservice]: [38126] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:48:21: [BidderMicroservice]: [38132] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:48:21: [BidderMicroservice]: [38136] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:48:21: [BidderMicroservice]: [38120] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:48:21: [BidderMicroservice]: [38124] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:48:21: [BidderMicroservice]: [38118] Eroare: java.net.SocketException: Connection reset
+2020-09-09 16:48:21: [BidderMicroservice]: [38122] Eroare: java.net.SocketException: Connection reset
+2020-09-09 16:48:21: [BidderMicroservice]: [38128] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:48:21: [BidderMicroservice]: [38130] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:48:30: [AuctioneerMicroservice]: se executa pe portul: 1500
+2020-09-09 16:48:30: [AuctioneerMicroservice]: Se asteapta oferte de la bidderi...
+2020-09-09 16:48:31: [BiddingProcessorMicroservice]: se executa pe portul:1700
+2020-09-09 16:48:31: [BiddingProcessorMicroservice]: Se asteapta ofertele pentru finalizarea licitatiei...
+2020-09-09 16:48:31: [MessageProcessorMicroservice]: se executa pe portul:1600
+2020-09-09 16:48:31: [MessageProcessorMicroservice]: Se asteapta mesaje pentru procesare...
+2020-09-09 16:48:33: [BidderMicroservice]: 38208 M-am conectat la Auctioneer!
+2020-09-09 16:48:33: [BidderMicroservice]: 38204 M-am conectat la Auctioneer!
+2020-09-09 16:48:33: [BidderMicroservice]: 38206 M-am conectat la Auctioneer!
+2020-09-09 16:48:33: [BidderMicroservice]: 38202 M-am conectat la Auctioneer!
+2020-09-09 16:48:33: [BidderMicroservice]: 38212 M-am conectat la Auctioneer!
+2020-09-09 16:48:33: [BidderMicroservice]: 38210 M-am conectat la Auctioneer!
+2020-09-09 16:48:33: [BidderMicroservice]: 38216 M-am conectat la Auctioneer!
+2020-09-09 16:48:33: [BidderMicroservice]: 38214 M-am conectat la Auctioneer!
+2020-09-09 16:48:34: [BidderMicroservice]: [38208] Astept rezultatul licitatiei...
+2020-09-09 16:48:34: [BidderMicroservice]: 38218 M-am conectat la Auctioneer!
+2020-09-09 16:48:34: [BidderMicroservice]: 38220 M-am conectat la Auctioneer!
+2020-09-09 16:48:34: [BidderMicroservice]: [38202] Astept rezultatul licitatiei...
+2020-09-09 16:48:34: [BidderMicroservice]: [38206] Astept rezultatul licitatiei...
+2020-09-09 16:48:34: [BidderMicroservice]: [38204] Astept rezultatul licitatiei...
+2020-09-09 16:48:34: [BidderMicroservice]: [38210] Astept rezultatul licitatiei...
+2020-09-09 16:48:34: [BidderMicroservice]: [38212] Astept rezultatul licitatiei...
+2020-09-09 16:48:34: [AuctioneerMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38202 {Name: George, Telephone: 0728578113, Email: Andreea@gmail.com} >>> licitez:6163
+2020-09-09 16:48:34: [AuctioneerMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38204 {Name: George, Telephone: 0725157008, Email: Pete@student.tuiasi.ro} >>> licitez:9375
+2020-09-09 16:48:34: [AuctioneerMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38206 {Name: George, Telephone: 0723239787, Email: Bianca@abc.com} >>> licitez:2589
+2020-09-09 16:48:34: [AuctioneerMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38208 {Name: Andrei, Telephone: 0729811133, Email: Gigel@yahoo.ro} >>> licitez:2579
+2020-09-09 16:48:34: [AuctioneerMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38210 {Name: Pete, Telephone: 0722774746, Email: Gigel@tuiasi.ro} >>> licitez:2911
+2020-09-09 16:48:34: [AuctioneerMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38212 {Name: Marian, Telephone: 0728724471, Email: Bianca@yahoo.ro} >>> licitez:2001
+2020-09-09 16:48:35: [AuctioneerMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38214 {Name: Andreea, Telephone: 0729009683, Email: Bianca@tuiasi.ro} >>> licitez:5677
+2020-09-09 16:48:35: [BidderMicroservice]: [38214] Astept rezultatul licitatiei...
+2020-09-09 16:48:35: [AuctioneerMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38216 {Name: Marian, Telephone: 0726162064, Email: Andrei@yahoo.ro} >>> licitez:1593
+2020-09-09 16:48:35: [BidderMicroservice]: [38216] Astept rezultatul licitatiei...
+2020-09-09 16:48:35: [BidderMicroservice]: [38220] Astept rezultatul licitatiei...
+2020-09-09 16:48:35: [BidderMicroservice]: [38218] Astept rezultatul licitatiei...
+2020-09-09 16:48:35: [AuctioneerMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38218 {Name: George, Telephone: 0727067339, Email: Pete@yahoo.ro} >>> licitez:2906
+2020-09-09 16:48:35: [AuctioneerMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38220 {Name: Andrei, Telephone: 0729117156, Email: Bianca@gmail.com} >>> licitez:1161
+2020-09-09 16:48:50: [AuctioneerMicroservice]: Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+2020-09-09 16:48:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:48:34] /127.0.0.1:38202 {Name: George, Telephone: 0728578113, Email: Andreea@gmail.com} >>> licitez:6163
+2020-09-09 16:48:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:48:34] /127.0.0.1:38204 {Name: George, Telephone: 0725157008, Email: Pete@student.tuiasi.ro} >>> licitez:9375
+2020-09-09 16:48:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:48:34] /127.0.0.1:38206 {Name: George, Telephone: 0723239787, Email: Bianca@abc.com} >>> licitez:2589
+2020-09-09 16:48:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:48:34] /127.0.0.1:38208 {Name: Andrei, Telephone: 0729811133, Email: Gigel@yahoo.ro} >>> licitez:2579
+2020-09-09 16:48:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:48:34] /127.0.0.1:38210 {Name: Pete, Telephone: 0722774746, Email: Gigel@tuiasi.ro} >>> licitez:2911
+2020-09-09 16:48:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:48:34] /127.0.0.1:38212 {Name: Marian, Telephone: 0728724471, Email: Bianca@yahoo.ro} >>> licitez:2001
+2020-09-09 16:48:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:48:35] /127.0.0.1:38214 {Name: Andreea, Telephone: 0729009683, Email: Bianca@tuiasi.ro} >>> licitez:5677
+2020-09-09 16:48:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:48:35] /127.0.0.1:38216 {Name: Marian, Telephone: 0726162064, Email: Andrei@yahoo.ro} >>> licitez:1593
+2020-09-09 16:48:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:48:35] /127.0.0.1:38218 {Name: George, Telephone: 0727067339, Email: Pete@yahoo.ro} >>> licitez:2906
+2020-09-09 16:48:50: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:48:35] /127.0.0.1:38220 {Name: Andrei, Telephone: 0729117156, Email: Bianca@gmail.com} >>> licitez:1161
+2020-09-09 16:48:50: [AuctioneerMicroservice]: Am trimis toate ofertele catre MessageProcessor.
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38202 {Name: George, Telephone: 0728578113, Email: Andreea@gmail.com} >>> licitez:6163
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38204 {Name: George, Telephone: 0725157008, Email: Pete@student.tuiasi.ro} >>> licitez:9375
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38206 {Name: George, Telephone: 0723239787, Email: Bianca@abc.com} >>> licitez:2589
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38208 {Name: Andrei, Telephone: 0729811133, Email: Gigel@yahoo.ro} >>> licitez:2579
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38210 {Name: Pete, Telephone: 0722774746, Email: Gigel@tuiasi.ro} >>> licitez:2911
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38212 {Name: Marian, Telephone: 0728724471, Email: Bianca@yahoo.ro} >>> licitez:2001
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38214 {Name: Andreea, Telephone: 0729009683, Email: Bianca@tuiasi.ro} >>> licitez:5677
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38216 {Name: Marian, Telephone: 0726162064, Email: Andrei@yahoo.ro} >>> licitez:1593
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38218 {Name: George, Telephone: 0727067339, Email: Pete@yahoo.ro} >>> licitez:2906
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38220 {Name: Andrei, Telephone: 0729117156, Email: Bianca@gmail.com} >>> licitez:1161
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: Trimit urmatoarele mesaje:
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38202 {Name: George, Telephone: 0728578113, Email: Andreea@gmail.com} >>> licitez:6163
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38204 {Name: George, Telephone: 0725157008, Email: Pete@student.tuiasi.ro} >>> licitez:9375
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38206 {Name: George, Telephone: 0723239787, Email: Bianca@abc.com} >>> licitez:2589
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38208 {Name: Andrei, Telephone: 0729811133, Email: Gigel@yahoo.ro} >>> licitez:2579
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38210 {Name: Pete, Telephone: 0722774746, Email: Gigel@tuiasi.ro} >>> licitez:2911
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38212 {Name: Marian, Telephone: 0728724471, Email: Bianca@yahoo.ro} >>> licitez:2001
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38214 {Name: Andreea, Telephone: 0729009683, Email: Bianca@tuiasi.ro} >>> licitez:5677
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38216 {Name: Marian, Telephone: 0726162064, Email: Andrei@yahoo.ro} >>> licitez:1593
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38218 {Name: George, Telephone: 0727067339, Email: Pete@yahoo.ro} >>> licitez:2906
+2020-09-09 16:48:50: [MessageProcessorMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38220 {Name: Andrei, Telephone: 0729117156, Email: Bianca@gmail.com} >>> licitez:1161
+2020-09-09 16:48:50: [BiddingProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38202 {Name: George, Telephone: 0728578113, Email: Andreea@gmail.com} >>> licitez:6163
+2020-09-09 16:48:50: [BiddingProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38204 {Name: George, Telephone: 0725157008, Email: Pete@student.tuiasi.ro} >>> licitez:9375
+2020-09-09 16:48:50: [BiddingProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38206 {Name: George, Telephone: 0723239787, Email: Bianca@abc.com} >>> licitez:2589
+2020-09-09 16:48:50: [BiddingProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38208 {Name: Andrei, Telephone: 0729811133, Email: Gigel@yahoo.ro} >>> licitez:2579
+2020-09-09 16:48:50: [BiddingProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38210 {Name: Pete, Telephone: 0722774746, Email: Gigel@tuiasi.ro} >>> licitez:2911
+2020-09-09 16:48:50: [BiddingProcessorMicroservice]: [09-09-2020 16:48:34] /127.0.0.1:38212 {Name: Marian, Telephone: 0728724471, Email: Bianca@yahoo.ro} >>> licitez:2001
+2020-09-09 16:48:50: [BiddingProcessorMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38214 {Name: Andreea, Telephone: 0729009683, Email: Bianca@tuiasi.ro} >>> licitez:5677
+2020-09-09 16:48:50: [BiddingProcessorMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38216 {Name: Marian, Telephone: 0726162064, Email: Andrei@yahoo.ro} >>> licitez:1593
+2020-09-09 16:48:50: [BiddingProcessorMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38218 {Name: George, Telephone: 0727067339, Email: Pete@yahoo.ro} >>> licitez:2906
+2020-09-09 16:48:50: [BiddingProcessorMicroservice]: [09-09-2020 16:48:35] /127.0.0.1:38220 {Name: Andrei, Telephone: 0729117156, Email: Bianca@gmail.com} >>> licitez:1161
+2020-09-09 16:48:50: [BiddingProcessorMicroservice]: Castigatorul este: /127.0.0.1:38204
+2020-09-09 16:48:50: [BiddingProcessorMicroservice]: Am anuntat castigatorul catre AuctioneerMicroservice.
+2020-09-09 16:49:41: [AuctioneerMicroservice]: Nu ma pot conecta la BiddingProcessor!
+2020-09-09 16:49:41: [BidderMicroservice]: [38220] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:49:41: [BidderMicroservice]: [38208] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:49:41: [BidderMicroservice]: [38212] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:49:41: [BidderMicroservice]: [38214] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:49:41: [BidderMicroservice]: [38210] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:49:41: [BidderMicroservice]: [38216] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:49:41: [BidderMicroservice]: [38218] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:49:41: [BidderMicroservice]: [38204] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:49:41: [BidderMicroservice]: [38206] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:49:41: [BidderMicroservice]: [38202] Eroare: java.lang.Exception: AuctioneerMicroservice s-a deconectat
+2020-09-09 16:51:13: [MessageProcessorMicroservice]: se executa pe portul:1600
+2020-09-09 16:51:13: [MessageProcessorMicroservice]: Se asteapta mesaje pentru procesare...
+2020-09-09 16:51:13: [AuctioneerMicroservice]: se executa pe portul: 1500
+2020-09-09 16:51:13: [AuctioneerMicroservice]: Se asteapta oferte de la bidderi...
+2020-09-09 16:51:13: [BiddingProcessorMicroservice]: se executa pe portul:1700
+2020-09-09 16:51:13: [BiddingProcessorMicroservice]: Se asteapta ofertele pentru finalizarea licitatiei...
+2020-09-09 16:51:16: [BidderMicroservice]: 38302 M-am conectat la Auctioneer!
+2020-09-09 16:51:16: [BidderMicroservice]: 38306 M-am conectat la Auctioneer!
+2020-09-09 16:51:16: [BidderMicroservice]: 38304 M-am conectat la Auctioneer!
+2020-09-09 16:51:16: [BidderMicroservice]: 38308 M-am conectat la Auctioneer!
+2020-09-09 16:51:16: [BidderMicroservice]: 38310 M-am conectat la Auctioneer!
+2020-09-09 16:51:16: [BidderMicroservice]: 38314 M-am conectat la Auctioneer!
+2020-09-09 16:51:16: [BidderMicroservice]: 38312 M-am conectat la Auctioneer!
+2020-09-09 16:51:17: [BidderMicroservice]: [38304] Astept rezultatul licitatiei...
+2020-09-09 16:51:17: [BidderMicroservice]: 38316 M-am conectat la Auctioneer!
+2020-09-09 16:51:17: [BidderMicroservice]: [38306] Astept rezultatul licitatiei...
+2020-09-09 16:51:17: [BidderMicroservice]: [38302] Astept rezultatul licitatiei...
+2020-09-09 16:51:17: [BidderMicroservice]: 38318 M-am conectat la Auctioneer!
+2020-09-09 16:51:17: [AuctioneerMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38302 {Name: Bianca, Telephone: 0726169316, Email: Andreea@abc.com} >>> licitez:2254
+2020-09-09 16:51:17: [AuctioneerMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38304 {Name: Andrei, Telephone: 0721914795, Email: Bianca@tuiasi.ro} >>> licitez:7695
+2020-09-09 16:51:17: [AuctioneerMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38306 {Name: Pete, Telephone: 0729073732, Email: Marian@abc.com} >>> licitez:9271
+2020-09-09 16:51:17: [BidderMicroservice]: [38310] Astept rezultatul licitatiei...
+2020-09-09 16:51:17: [BidderMicroservice]: 38320 M-am conectat la Auctioneer!
+2020-09-09 16:51:17: [BidderMicroservice]: [38312] Astept rezultatul licitatiei...
+2020-09-09 16:51:17: [BidderMicroservice]: [38314] Astept rezultatul licitatiei...
+2020-09-09 16:51:17: [BidderMicroservice]: [38308] Astept rezultatul licitatiei...
+2020-09-09 16:51:17: [AuctioneerMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38308 {Name: George, Telephone: 0727275113, Email: Andreea@yahoo.ro} >>> licitez:4008
+2020-09-09 16:51:17: [AuctioneerMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38310 {Name: George, Telephone: 0721607022, Email: George@yahoo.ro} >>> licitez:6749
+2020-09-09 16:51:17: [AuctioneerMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38312 {Name: Bula, Telephone: 0729971637, Email: Pete@gmail.com} >>> licitez:4035
+2020-09-09 16:51:17: [AuctioneerMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38314 {Name: Gogu, Telephone: 0724451899, Email: Bianca@gmail.com} >>> licitez:9746
+2020-09-09 16:51:17: [BidderMicroservice]: [38316] Astept rezultatul licitatiei...
+2020-09-09 16:51:17: [AuctioneerMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38316 {Name: Bula, Telephone: 0728867261, Email: Bianca@student.tuiasi.ro} >>> licitez:4036
+2020-09-09 16:51:17: [BidderMicroservice]: [38318] Astept rezultatul licitatiei...
+2020-09-09 16:51:17: [AuctioneerMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38318 {Name: Gigel, Telephone: 0722583728, Email: Gigel@abc.com} >>> licitez:5858
+2020-09-09 16:51:17: [BidderMicroservice]: [38320] Astept rezultatul licitatiei...
+2020-09-09 16:51:17: [AuctioneerMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38320 {Name: George, Telephone: 0722332658, Email: Gogu@tuiasi.ro} >>> licitez:3832
+2020-09-09 16:51:32: [AuctioneerMicroservice]: Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+2020-09-09 16:51:32: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:51:17] /127.0.0.1:38302 {Name: Bianca, Telephone: 0726169316, Email: Andreea@abc.com} >>> licitez:2254
+2020-09-09 16:51:32: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:51:17] /127.0.0.1:38304 {Name: Andrei, Telephone: 0721914795, Email: Bianca@tuiasi.ro} >>> licitez:7695
+2020-09-09 16:51:32: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:51:17] /127.0.0.1:38306 {Name: Pete, Telephone: 0729073732, Email: Marian@abc.com} >>> licitez:9271
+2020-09-09 16:51:32: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:51:17] /127.0.0.1:38308 {Name: George, Telephone: 0727275113, Email: Andreea@yahoo.ro} >>> licitez:4008
+2020-09-09 16:51:32: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:51:17] /127.0.0.1:38310 {Name: George, Telephone: 0721607022, Email: George@yahoo.ro} >>> licitez:6749
+2020-09-09 16:51:32: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:51:17] /127.0.0.1:38312 {Name: Bula, Telephone: 0729971637, Email: Pete@gmail.com} >>> licitez:4035
+2020-09-09 16:51:32: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:51:17] /127.0.0.1:38314 {Name: Gogu, Telephone: 0724451899, Email: Bianca@gmail.com} >>> licitez:9746
+2020-09-09 16:51:32: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:51:17] /127.0.0.1:38316 {Name: Bula, Telephone: 0728867261, Email: Bianca@student.tuiasi.ro} >>> licitez:4036
+2020-09-09 16:51:32: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:51:17] /127.0.0.1:38318 {Name: Gigel, Telephone: 0722583728, Email: Gigel@abc.com} >>> licitez:5858
+2020-09-09 16:51:32: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:51:17] /127.0.0.1:38320 {Name: George, Telephone: 0722332658, Email: Gogu@tuiasi.ro} >>> licitez:3832
+2020-09-09 16:51:32: [AuctioneerMicroservice]: Am trimis toate ofertele catre MessageProcessor.
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38302 {Name: Bianca, Telephone: 0726169316, Email: Andreea@abc.com} >>> licitez:2254
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38304 {Name: Andrei, Telephone: 0721914795, Email: Bianca@tuiasi.ro} >>> licitez:7695
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38306 {Name: Pete, Telephone: 0729073732, Email: Marian@abc.com} >>> licitez:9271
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38308 {Name: George, Telephone: 0727275113, Email: Andreea@yahoo.ro} >>> licitez:4008
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38310 {Name: George, Telephone: 0721607022, Email: George@yahoo.ro} >>> licitez:6749
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38312 {Name: Bula, Telephone: 0729971637, Email: Pete@gmail.com} >>> licitez:4035
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38314 {Name: Gogu, Telephone: 0724451899, Email: Bianca@gmail.com} >>> licitez:9746
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38316 {Name: Bula, Telephone: 0728867261, Email: Bianca@student.tuiasi.ro} >>> licitez:4036
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38318 {Name: Gigel, Telephone: 0722583728, Email: Gigel@abc.com} >>> licitez:5858
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38320 {Name: George, Telephone: 0722332658, Email: Gogu@tuiasi.ro} >>> licitez:3832
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: Trimit urmatoarele mesaje:
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38302 {Name: Bianca, Telephone: 0726169316, Email: Andreea@abc.com} >>> licitez:2254
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38304 {Name: Andrei, Telephone: 0721914795, Email: Bianca@tuiasi.ro} >>> licitez:7695
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38306 {Name: Pete, Telephone: 0729073732, Email: Marian@abc.com} >>> licitez:9271
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38308 {Name: George, Telephone: 0727275113, Email: Andreea@yahoo.ro} >>> licitez:4008
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38310 {Name: George, Telephone: 0721607022, Email: George@yahoo.ro} >>> licitez:6749
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38312 {Name: Bula, Telephone: 0729971637, Email: Pete@gmail.com} >>> licitez:4035
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38314 {Name: Gogu, Telephone: 0724451899, Email: Bianca@gmail.com} >>> licitez:9746
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38316 {Name: Bula, Telephone: 0728867261, Email: Bianca@student.tuiasi.ro} >>> licitez:4036
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38318 {Name: Gigel, Telephone: 0722583728, Email: Gigel@abc.com} >>> licitez:5858
+2020-09-09 16:51:32: [MessageProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38320 {Name: George, Telephone: 0722332658, Email: Gogu@tuiasi.ro} >>> licitez:3832
+2020-09-09 16:51:32: [BiddingProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38302 {Name: Bianca, Telephone: 0726169316, Email: Andreea@abc.com} >>> licitez:2254
+2020-09-09 16:51:32: [BiddingProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38304 {Name: Andrei, Telephone: 0721914795, Email: Bianca@tuiasi.ro} >>> licitez:7695
+2020-09-09 16:51:32: [BiddingProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38306 {Name: Pete, Telephone: 0729073732, Email: Marian@abc.com} >>> licitez:9271
+2020-09-09 16:51:32: [BiddingProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38308 {Name: George, Telephone: 0727275113, Email: Andreea@yahoo.ro} >>> licitez:4008
+2020-09-09 16:51:32: [BiddingProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38310 {Name: George, Telephone: 0721607022, Email: George@yahoo.ro} >>> licitez:6749
+2020-09-09 16:51:32: [BiddingProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38312 {Name: Bula, Telephone: 0729971637, Email: Pete@gmail.com} >>> licitez:4035
+2020-09-09 16:51:32: [BiddingProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38314 {Name: Gogu, Telephone: 0724451899, Email: Bianca@gmail.com} >>> licitez:9746
+2020-09-09 16:51:32: [BiddingProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38316 {Name: Bula, Telephone: 0728867261, Email: Bianca@student.tuiasi.ro} >>> licitez:4036
+2020-09-09 16:51:32: [BiddingProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38318 {Name: Gigel, Telephone: 0722583728, Email: Gigel@abc.com} >>> licitez:5858
+2020-09-09 16:51:32: [BiddingProcessorMicroservice]: [09-09-2020 16:51:17] /127.0.0.1:38320 {Name: George, Telephone: 0722332658, Email: Gogu@tuiasi.ro} >>> licitez:3832
+2020-09-09 16:51:32: [BiddingProcessorMicroservice]: Castigatorul este: /127.0.0.1:38314
+2020-09-09 16:51:32: [BiddingProcessorMicroservice]: Am anuntat castigatorul catre AuctioneerMicroservice.
+2020-09-09 16:51:32: [AuctioneerMicroservice]: Am primit rezultatul licitatiei de la BiddingProcessor: /127.0.0.1:38314 a castigat cu pretul:9746
+2020-09-09 16:51:32: [BidderMicroservice]: [38304] Rezultat licitatie:Licitatie
+2020-09-09 16:51:32: [BidderMicroservice]: [38306] Rezultat licitatie:Licitatie
+2020-09-09 16:51:32: [BidderMicroservice]: [38302] Rezultat licitatie:Licitatie
+2020-09-09 16:51:32: [BidderMicroservice]: [38308] Rezultat licitatie:Licitatie
+2020-09-09 16:51:32: [BidderMicroservice]: [38310] Rezultat licitatie:Licitatie
+2020-09-09 16:51:32: [BidderMicroservice]: [38312] Rezultat licitatie:Licitatie
+2020-09-09 16:51:32: [BidderMicroservice]: [38314] Rezultat licitatie:Licitatie
+2020-09-09 16:51:32: [BidderMicroservice]: [38316] Rezultat licitatie:Licitatie
+2020-09-09 16:51:32: [BidderMicroservice]: [38320] Rezultat licitatie:Licitatie
+2020-09-09 16:51:32: [BidderMicroservice]: [38318] Rezultat licitatie:Licitatie
+2020-09-09 16:56:49: [BiddingProcessorMicroservice]: se executa pe portul:1700
+2020-09-09 16:56:49: [BiddingProcessorMicroservice]: Se asteapta ofertele pentru finalizarea licitatiei...
+2020-09-09 16:56:49: [MessageProcessorMicroservice]: se executa pe portul:1600
+2020-09-09 16:56:49: [MessageProcessorMicroservice]: Se asteapta mesaje pentru procesare...
+2020-09-09 16:56:49: [AuctioneerMicroservice]: se executa pe portul: 1500
+2020-09-09 16:56:49: [AuctioneerMicroservice]: Se asteapta oferte de la bidderi...
+2020-09-09 16:56:51: [BidderMicroservice]: 38524 M-am conectat la Auctioneer!
+2020-09-09 16:56:51: [BidderMicroservice]: 38522 M-am conectat la Auctioneer!
+2020-09-09 16:56:51: [BidderMicroservice]: 38526 M-am conectat la Auctioneer!
+2020-09-09 16:56:52: [BidderMicroservice]: 38532 M-am conectat la Auctioneer!
+2020-09-09 16:56:52: [BidderMicroservice]: 38528 M-am conectat la Auctioneer!
+2020-09-09 16:56:52: [BidderMicroservice]: 38530 M-am conectat la Auctioneer!
+2020-09-09 16:56:52: [BidderMicroservice]: 38534 M-am conectat la Auctioneer!
+2020-09-09 16:56:52: [BidderMicroservice]: [38522] Astept rezultatul licitatiei...
+2020-09-09 16:56:52: [BidderMicroservice]: 38536 M-am conectat la Auctioneer!
+2020-09-09 16:56:52: [BidderMicroservice]: 38538 M-am conectat la Auctioneer!
+2020-09-09 16:56:52: [BidderMicroservice]: [38524] Astept rezultatul licitatiei...
+2020-09-09 16:56:52: [AuctioneerMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38522 {Name: Bianca, Telephone: 0725464848, Email: Bianca@abc.com} >>> licitez:8903
+2020-09-09 16:56:52: [AuctioneerMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38524 {Name: Marian, Telephone: 0727261367, Email: Pete@yahoo.ro} >>> licitez:1560
+2020-09-09 16:56:52: [BidderMicroservice]: [38532] Astept rezultatul licitatiei...
+2020-09-09 16:56:52: [BidderMicroservice]: 38540 M-am conectat la Auctioneer!
+2020-09-09 16:56:52: [BidderMicroservice]: [38526] Astept rezultatul licitatiei...
+2020-09-09 16:56:52: [AuctioneerMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38526 {Name: Andreea, Telephone: 0724243056, Email: Andrei@tuiasi.ro} >>> licitez:8412
+2020-09-09 16:56:52: [AuctioneerMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38528 {Name: Andrei, Telephone: 0723787780, Email: Andreea@student.tuiasi.ro} >>> licitez:8544
+2020-09-09 16:56:52: [BidderMicroservice]: [38528] Astept rezultatul licitatiei...
+2020-09-09 16:56:52: [BidderMicroservice]: [38534] Astept rezultatul licitatiei...
+2020-09-09 16:56:52: [BidderMicroservice]: [38536] Astept rezultatul licitatiei...
+2020-09-09 16:56:52: [BidderMicroservice]: [38538] Astept rezultatul licitatiei...
+2020-09-09 16:56:52: [BidderMicroservice]: [38530] Astept rezultatul licitatiei...
+2020-09-09 16:56:52: [AuctioneerMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38530 {Name: Pete, Telephone: 0729898500, Email: Bula@yahoo.ro} >>> licitez:3172
+2020-09-09 16:56:52: [AuctioneerMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38532 {Name: Pete, Telephone: 0721049472, Email: Andrei@gmail.com} >>> licitez:8120
+2020-09-09 16:56:52: [AuctioneerMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38534 {Name: Marian, Telephone: 0727087763, Email: Andrei@abc.com} >>> licitez:2609
+2020-09-09 16:56:52: [AuctioneerMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38536 {Name: Andreea, Telephone: 0722500287, Email: Pete@tuiasi.ro} >>> licitez:5848
+2020-09-09 16:56:52: [AuctioneerMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38538 {Name: Andrei, Telephone: 0724100439, Email: Bula@tuiasi.ro} >>> licitez:4544
+2020-09-09 16:56:52: [BidderMicroservice]: [38540] Astept rezultatul licitatiei...
+2020-09-09 16:56:52: [AuctioneerMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38540 {Name: Gogu, Telephone: 0724224458, Email: Marian@yahoo.ro} >>> licitez:2518
+2020-09-09 16:57:07: [AuctioneerMicroservice]: Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+2020-09-09 16:57:07: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:56:52] /127.0.0.1:38522 {Name: Bianca, Telephone: 0725464848, Email: Bianca@abc.com} >>> licitez:8903
+2020-09-09 16:57:07: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:56:52] /127.0.0.1:38524 {Name: Marian, Telephone: 0727261367, Email: Pete@yahoo.ro} >>> licitez:1560
+2020-09-09 16:57:07: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:56:52] /127.0.0.1:38526 {Name: Andreea, Telephone: 0724243056, Email: Andrei@tuiasi.ro} >>> licitez:8412
+2020-09-09 16:57:07: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:56:52] /127.0.0.1:38528 {Name: Andrei, Telephone: 0723787780, Email: Andreea@student.tuiasi.ro} >>> licitez:8544
+2020-09-09 16:57:07: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:56:52] /127.0.0.1:38530 {Name: Pete, Telephone: 0729898500, Email: Bula@yahoo.ro} >>> licitez:3172
+2020-09-09 16:57:07: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:56:52] /127.0.0.1:38532 {Name: Pete, Telephone: 0721049472, Email: Andrei@gmail.com} >>> licitez:8120
+2020-09-09 16:57:07: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:56:52] /127.0.0.1:38534 {Name: Marian, Telephone: 0727087763, Email: Andrei@abc.com} >>> licitez:2609
+2020-09-09 16:57:07: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:56:52] /127.0.0.1:38536 {Name: Andreea, Telephone: 0722500287, Email: Pete@tuiasi.ro} >>> licitez:5848
+2020-09-09 16:57:07: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:56:52] /127.0.0.1:38538 {Name: Andrei, Telephone: 0724100439, Email: Bula@tuiasi.ro} >>> licitez:4544
+2020-09-09 16:57:07: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:56:52] /127.0.0.1:38540 {Name: Gogu, Telephone: 0724224458, Email: Marian@yahoo.ro} >>> licitez:2518
+2020-09-09 16:57:07: [AuctioneerMicroservice]: Am trimis toate ofertele catre MessageProcessor.
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38522 {Name: Bianca, Telephone: 0725464848, Email: Bianca@abc.com} >>> licitez:8903
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38524 {Name: Marian, Telephone: 0727261367, Email: Pete@yahoo.ro} >>> licitez:1560
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38526 {Name: Andreea, Telephone: 0724243056, Email: Andrei@tuiasi.ro} >>> licitez:8412
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38528 {Name: Andrei, Telephone: 0723787780, Email: Andreea@student.tuiasi.ro} >>> licitez:8544
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38530 {Name: Pete, Telephone: 0729898500, Email: Bula@yahoo.ro} >>> licitez:3172
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38532 {Name: Pete, Telephone: 0721049472, Email: Andrei@gmail.com} >>> licitez:8120
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38534 {Name: Marian, Telephone: 0727087763, Email: Andrei@abc.com} >>> licitez:2609
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38536 {Name: Andreea, Telephone: 0722500287, Email: Pete@tuiasi.ro} >>> licitez:5848
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38538 {Name: Andrei, Telephone: 0724100439, Email: Bula@tuiasi.ro} >>> licitez:4544
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38540 {Name: Gogu, Telephone: 0724224458, Email: Marian@yahoo.ro} >>> licitez:2518
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: Trimit urmatoarele mesaje:
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38522 {Name: Bianca, Telephone: 0725464848, Email: Bianca@abc.com} >>> licitez:8903
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38524 {Name: Marian, Telephone: 0727261367, Email: Pete@yahoo.ro} >>> licitez:1560
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38526 {Name: Andreea, Telephone: 0724243056, Email: Andrei@tuiasi.ro} >>> licitez:8412
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38528 {Name: Andrei, Telephone: 0723787780, Email: Andreea@student.tuiasi.ro} >>> licitez:8544
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38530 {Name: Pete, Telephone: 0729898500, Email: Bula@yahoo.ro} >>> licitez:3172
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38532 {Name: Pete, Telephone: 0721049472, Email: Andrei@gmail.com} >>> licitez:8120
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38534 {Name: Marian, Telephone: 0727087763, Email: Andrei@abc.com} >>> licitez:2609
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38536 {Name: Andreea, Telephone: 0722500287, Email: Pete@tuiasi.ro} >>> licitez:5848
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38538 {Name: Andrei, Telephone: 0724100439, Email: Bula@tuiasi.ro} >>> licitez:4544
+2020-09-09 16:57:07: [MessageProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38540 {Name: Gogu, Telephone: 0724224458, Email: Marian@yahoo.ro} >>> licitez:2518
+2020-09-09 16:57:07: [BiddingProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38522 {Name: Bianca, Telephone: 0725464848, Email: Bianca@abc.com} >>> licitez:8903
+2020-09-09 16:57:07: [BiddingProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38524 {Name: Marian, Telephone: 0727261367, Email: Pete@yahoo.ro} >>> licitez:1560
+2020-09-09 16:57:07: [BiddingProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38526 {Name: Andreea, Telephone: 0724243056, Email: Andrei@tuiasi.ro} >>> licitez:8412
+2020-09-09 16:57:07: [BiddingProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38528 {Name: Andrei, Telephone: 0723787780, Email: Andreea@student.tuiasi.ro} >>> licitez:8544
+2020-09-09 16:57:07: [BiddingProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38530 {Name: Pete, Telephone: 0729898500, Email: Bula@yahoo.ro} >>> licitez:3172
+2020-09-09 16:57:07: [BiddingProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38532 {Name: Pete, Telephone: 0721049472, Email: Andrei@gmail.com} >>> licitez:8120
+2020-09-09 16:57:07: [BiddingProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38534 {Name: Marian, Telephone: 0727087763, Email: Andrei@abc.com} >>> licitez:2609
+2020-09-09 16:57:07: [BiddingProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38536 {Name: Andreea, Telephone: 0722500287, Email: Pete@tuiasi.ro} >>> licitez:5848
+2020-09-09 16:57:07: [BiddingProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38538 {Name: Andrei, Telephone: 0724100439, Email: Bula@tuiasi.ro} >>> licitez:4544
+2020-09-09 16:57:07: [BiddingProcessorMicroservice]: [09-09-2020 16:56:52] /127.0.0.1:38540 {Name: Gogu, Telephone: 0724224458, Email: Marian@yahoo.ro} >>> licitez:2518
+2020-09-09 16:57:07: [BiddingProcessorMicroservice]: Castigatorul este: /127.0.0.1:38522
+2020-09-09 16:57:07: [BiddingProcessorMicroservice]: Am anuntat castigatorul catre AuctioneerMicroservice.
+2020-09-09 16:57:07: [AuctioneerMicroservice]: Am primit rezultatul licitatiei de la BiddingProcessor: /127.0.0.1:38522 a castigat cu pretul:8903
+2020-09-09 16:57:07: [BidderMicroservice]: [38522] Eroare: java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+2020-09-09 16:57:07: [BidderMicroservice]: [38524] Eroare: java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+2020-09-09 16:57:07: [BidderMicroservice]: [38528] Eroare: java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+2020-09-09 16:57:07: [BidderMicroservice]: [38530] Eroare: java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+2020-09-09 16:57:07: [BidderMicroservice]: [38532] Eroare: java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+2020-09-09 16:57:07: [BidderMicroservice]: [38538] Eroare: java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+2020-09-09 16:57:07: [BidderMicroservice]: [38526] Eroare: java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+2020-09-09 16:57:07: [BidderMicroservice]: [38536] Eroare: java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+2020-09-09 16:57:07: [BidderMicroservice]: [38534] Eroare: java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+2020-09-09 16:57:07: [BidderMicroservice]: [38540] Eroare: java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+2020-09-09 16:59:40: [MessageProcessorMicroservice]: se executa pe portul:1600
+2020-09-09 16:59:40: [MessageProcessorMicroservice]: Se asteapta mesaje pentru procesare...
+2020-09-09 16:59:40: [AuctioneerMicroservice]: se executa pe portul: 1500
+2020-09-09 16:59:40: [AuctioneerMicroservice]: Se asteapta oferte de la bidderi...
+2020-09-09 16:59:40: [BiddingProcessorMicroservice]: se executa pe portul:1700
+2020-09-09 16:59:40: [BiddingProcessorMicroservice]: Se asteapta ofertele pentru finalizarea licitatiei...
+2020-09-09 16:59:42: [BidderMicroservice]: 38630 M-am conectat la Auctioneer!
+2020-09-09 16:59:42: [BidderMicroservice]: 38632 M-am conectat la Auctioneer!
+2020-09-09 16:59:42: [BidderMicroservice]: 38636 M-am conectat la Auctioneer!
+2020-09-09 16:59:42: [BidderMicroservice]: 38642 M-am conectat la Auctioneer!
+2020-09-09 16:59:42: [BidderMicroservice]: 38640 M-am conectat la Auctioneer!
+2020-09-09 16:59:42: [BidderMicroservice]: 38634 M-am conectat la Auctioneer!
+2020-09-09 16:59:42: [BidderMicroservice]: 38638 M-am conectat la Auctioneer!
+2020-09-09 16:59:42: [BidderMicroservice]: 38644 M-am conectat la Auctioneer!
+2020-09-09 16:59:42: [BidderMicroservice]: 38648 M-am conectat la Auctioneer!
+2020-09-09 16:59:42: [BidderMicroservice]: [38630] Astept rezultatul licitatiei...
+2020-09-09 16:59:42: [BidderMicroservice]: 38646 M-am conectat la Auctioneer!
+2020-09-09 16:59:42: [AuctioneerMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38630 {Name: Bianca, Telephone: 0723679821, Email: Marian@tuiasi.ro} >>> licitez:4126
+2020-09-09 16:59:42: [BidderMicroservice]: [38642] Astept rezultatul licitatiei...
+2020-09-09 16:59:42: [BidderMicroservice]: [38634] Astept rezultatul licitatiei...
+2020-09-09 16:59:42: [AuctioneerMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38632 {Name: Gogu, Telephone: 0729039231, Email: Bianca@yahoo.ro} >>> licitez:5380
+2020-09-09 16:59:42: [AuctioneerMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38634 {Name: Bula, Telephone: 0726898887, Email: Bianca@gmail.com} >>> licitez:3646
+2020-09-09 16:59:42: [BidderMicroservice]: [38632] Astept rezultatul licitatiei...
+2020-09-09 16:59:43: [AuctioneerMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38636 {Name: Pete, Telephone: 0728742914, Email: Bula@gmail.com} >>> licitez:4825
+2020-09-09 16:59:43: [BidderMicroservice]: [38636] Astept rezultatul licitatiei...
+2020-09-09 16:59:43: [BidderMicroservice]: [38640] Astept rezultatul licitatiei...
+2020-09-09 16:59:43: [BidderMicroservice]: [38638] Astept rezultatul licitatiei...
+2020-09-09 16:59:43: [AuctioneerMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38638 {Name: Andrei, Telephone: 0725614289, Email: Marian@yahoo.ro} >>> licitez:8267
+2020-09-09 16:59:43: [AuctioneerMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38640 {Name: Bula, Telephone: 0721361027, Email: Andreea@gmail.com} >>> licitez:1425
+2020-09-09 16:59:43: [AuctioneerMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38642 {Name: Andrei, Telephone: 0725784822, Email: Andreea@tuiasi.ro} >>> licitez:6780
+2020-09-09 16:59:43: [BidderMicroservice]: [38648] Astept rezultatul licitatiei...
+2020-09-09 16:59:43: [BidderMicroservice]: [38646] Astept rezultatul licitatiei...
+2020-09-09 16:59:43: [BidderMicroservice]: [38644] Astept rezultatul licitatiei...
+2020-09-09 16:59:43: [AuctioneerMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38644 {Name: Andreea, Telephone: 0724724058, Email: Bula@tuiasi.ro} >>> licitez:5112
+2020-09-09 16:59:43: [AuctioneerMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38646 {Name: George, Telephone: 0721640848, Email: Gigel@student.tuiasi.ro} >>> licitez:6963
+2020-09-09 16:59:43: [AuctioneerMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38648 {Name: Andreea, Telephone: 0728697305, Email: Bianca@gmail.com} >>> licitez:1095
+2020-09-09 16:59:58: [AuctioneerMicroservice]: Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+2020-09-09 16:59:58: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:59:42] /127.0.0.1:38630 {Name: Bianca, Telephone: 0723679821, Email: Marian@tuiasi.ro} >>> licitez:4126
+2020-09-09 16:59:58: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:59:42] /127.0.0.1:38632 {Name: Gogu, Telephone: 0729039231, Email: Bianca@yahoo.ro} >>> licitez:5380
+2020-09-09 16:59:58: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:59:42] /127.0.0.1:38634 {Name: Bula, Telephone: 0726898887, Email: Bianca@gmail.com} >>> licitez:3646
+2020-09-09 16:59:58: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:59:43] /127.0.0.1:38636 {Name: Pete, Telephone: 0728742914, Email: Bula@gmail.com} >>> licitez:4825
+2020-09-09 16:59:58: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:59:43] /127.0.0.1:38638 {Name: Andrei, Telephone: 0725614289, Email: Marian@yahoo.ro} >>> licitez:8267
+2020-09-09 16:59:58: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:59:43] /127.0.0.1:38640 {Name: Bula, Telephone: 0721361027, Email: Andreea@gmail.com} >>> licitez:1425
+2020-09-09 16:59:58: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:59:42] /127.0.0.1:38642 {Name: Andrei, Telephone: 0725784822, Email: Andreea@tuiasi.ro} >>> licitez:6780
+2020-09-09 16:59:58: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:59:43] /127.0.0.1:38644 {Name: Andreea, Telephone: 0724724058, Email: Bula@tuiasi.ro} >>> licitez:5112
+2020-09-09 16:59:58: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:59:43] /127.0.0.1:38646 {Name: George, Telephone: 0721640848, Email: Gigel@student.tuiasi.ro} >>> licitez:6963
+2020-09-09 16:59:58: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 16:59:43] /127.0.0.1:38648 {Name: Andreea, Telephone: 0728697305, Email: Bianca@gmail.com} >>> licitez:1095
+2020-09-09 16:59:58: [AuctioneerMicroservice]: Am trimis toate ofertele catre MessageProcessor.
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38630 {Name: Bianca, Telephone: 0723679821, Email: Marian@tuiasi.ro} >>> licitez:4126
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38632 {Name: Gogu, Telephone: 0729039231, Email: Bianca@yahoo.ro} >>> licitez:5380
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38634 {Name: Bula, Telephone: 0726898887, Email: Bianca@gmail.com} >>> licitez:3646
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38636 {Name: Pete, Telephone: 0728742914, Email: Bula@gmail.com} >>> licitez:4825
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38638 {Name: Andrei, Telephone: 0725614289, Email: Marian@yahoo.ro} >>> licitez:8267
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38640 {Name: Bula, Telephone: 0721361027, Email: Andreea@gmail.com} >>> licitez:1425
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38642 {Name: Andrei, Telephone: 0725784822, Email: Andreea@tuiasi.ro} >>> licitez:6780
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38644 {Name: Andreea, Telephone: 0724724058, Email: Bula@tuiasi.ro} >>> licitez:5112
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38646 {Name: George, Telephone: 0721640848, Email: Gigel@student.tuiasi.ro} >>> licitez:6963
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38648 {Name: Andreea, Telephone: 0728697305, Email: Bianca@gmail.com} >>> licitez:1095
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: Trimit urmatoarele mesaje:
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38630 {Name: Bianca, Telephone: 0723679821, Email: Marian@tuiasi.ro} >>> licitez:4126
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38632 {Name: Gogu, Telephone: 0729039231, Email: Bianca@yahoo.ro} >>> licitez:5380
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38634 {Name: Bula, Telephone: 0726898887, Email: Bianca@gmail.com} >>> licitez:3646
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38636 {Name: Pete, Telephone: 0728742914, Email: Bula@gmail.com} >>> licitez:4825
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38638 {Name: Andrei, Telephone: 0725614289, Email: Marian@yahoo.ro} >>> licitez:8267
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38640 {Name: Bula, Telephone: 0721361027, Email: Andreea@gmail.com} >>> licitez:1425
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38642 {Name: Andrei, Telephone: 0725784822, Email: Andreea@tuiasi.ro} >>> licitez:6780
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38644 {Name: Andreea, Telephone: 0724724058, Email: Bula@tuiasi.ro} >>> licitez:5112
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38646 {Name: George, Telephone: 0721640848, Email: Gigel@student.tuiasi.ro} >>> licitez:6963
+2020-09-09 16:59:58: [MessageProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38648 {Name: Andreea, Telephone: 0728697305, Email: Bianca@gmail.com} >>> licitez:1095
+2020-09-09 16:59:58: [BiddingProcessorMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38630 {Name: Bianca, Telephone: 0723679821, Email: Marian@tuiasi.ro} >>> licitez:4126
+2020-09-09 16:59:58: [BiddingProcessorMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38632 {Name: Gogu, Telephone: 0729039231, Email: Bianca@yahoo.ro} >>> licitez:5380
+2020-09-09 16:59:58: [BiddingProcessorMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38634 {Name: Bula, Telephone: 0726898887, Email: Bianca@gmail.com} >>> licitez:3646
+2020-09-09 16:59:58: [BiddingProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38636 {Name: Pete, Telephone: 0728742914, Email: Bula@gmail.com} >>> licitez:4825
+2020-09-09 16:59:58: [BiddingProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38638 {Name: Andrei, Telephone: 0725614289, Email: Marian@yahoo.ro} >>> licitez:8267
+2020-09-09 16:59:58: [BiddingProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38640 {Name: Bula, Telephone: 0721361027, Email: Andreea@gmail.com} >>> licitez:1425
+2020-09-09 16:59:58: [BiddingProcessorMicroservice]: [09-09-2020 16:59:42] /127.0.0.1:38642 {Name: Andrei, Telephone: 0725784822, Email: Andreea@tuiasi.ro} >>> licitez:6780
+2020-09-09 16:59:58: [BiddingProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38644 {Name: Andreea, Telephone: 0724724058, Email: Bula@tuiasi.ro} >>> licitez:5112
+2020-09-09 16:59:58: [BiddingProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38646 {Name: George, Telephone: 0721640848, Email: Gigel@student.tuiasi.ro} >>> licitez:6963
+2020-09-09 16:59:58: [BiddingProcessorMicroservice]: [09-09-2020 16:59:43] /127.0.0.1:38648 {Name: Andreea, Telephone: 0728697305, Email: Bianca@gmail.com} >>> licitez:1095
+2020-09-09 16:59:58: [BiddingProcessorMicroservice]: Castigatorul este: /127.0.0.1:38638
+2020-09-09 16:59:58: [BiddingProcessorMicroservice]: Am anuntat castigatorul catre AuctioneerMicroservice.
+2020-09-09 16:59:58: [AuctioneerMicroservice]: Am primit rezultatul licitatiei de la BiddingProcessor: /127.0.0.1:38638 a castigat cu pretul:8267
+2020-09-09 16:59:58: [BidderMicroservice]: [38632] Rezultat licitatie:loser
+2020-09-09 16:59:58: [BidderMicroservice]: [38636] Rezultat licitatie:loser
+2020-09-09 16:59:58: [BidderMicroservice]: [38634] Rezultat licitatie:loser
+2020-09-09 16:59:58: [BidderMicroservice]: [38638] Rezultat licitatie:winner
+2020-09-09 16:59:58: [BidderMicroservice]: [38630] Rezultat licitatie:loser
+2020-09-09 16:59:58: [BidderMicroservice]: [38640] Rezultat licitatie:loser
+2020-09-09 16:59:58: [BidderMicroservice]: [38644] Rezultat licitatie:loser
+2020-09-09 16:59:58: [BidderMicroservice]: [38646] Rezultat licitatie:loser
+2020-09-09 16:59:58: [BidderMicroservice]: [38648] Rezultat licitatie:loser
+2020-09-09 16:59:58: [BidderMicroservice]: [38642] Rezultat licitatie:loser
+2020-09-09 20:12:18: [BiddingProcessorMicroservice]: se executa pe portul:1700
+2020-09-09 20:12:18: [MessageProcessorMicroservice]: se executa pe portul:1600
+2020-09-09 20:12:18: [MessageProcessorMicroservice]: Se asteapta mesaje pentru procesare...
+2020-09-09 20:12:18: [AuctioneerMicroservice]: se executa pe portul: 1500
+2020-09-09 20:12:18: [BiddingProcessorMicroservice]: Se asteapta ofertele pentru finalizarea licitatiei...
+2020-09-09 20:12:18: [AuctioneerMicroservice]: Se asteapta oferte de la bidderi...
+2020-09-09 20:12:18: [ChatMicroservice]: se executa pe portul: 8888
+2020-09-09 20:12:18: [ChatMicroservice]: Se asteapta mesaje de la bidderi...
+2020-09-09 20:12:20: [BidderMicroservice]: 41758 M-am conectat la Auctioneer!
+2020-09-09 20:12:20: [BidderMicroservice]: [41758] Astept rezultatul licitatiei...
+2020-09-09 20:12:20: [AuctioneerMicroservice]: [09-09-2020 20:12:20] /127.0.0.1:41758 {Name: George, Telephone: 0721573906, Email: Marian@abc.com} >>> licitez:4040
+2020-09-09 20:12:22: [BidderMicroservice]: 41760 M-am conectat la Auctioneer!
+2020-09-09 20:12:23: [BidderMicroservice]: [41760] Astept rezultatul licitatiei...
+2020-09-09 20:12:23: [AuctioneerMicroservice]: [09-09-2020 20:12:23] /127.0.0.1:41760 {Name: Pete, Telephone: 0724144092, Email: Gigel@tuiasi.ro} >>> licitez:4540
+2020-09-09 20:12:33: [ChatMicroservice]: Au fost conectati toti userii la licitatie.
+2020-09-09 20:12:38: [AuctioneerMicroservice]: Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+2020-09-09 20:12:38: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 20:12:20] /127.0.0.1:41758 {Name: George, Telephone: 0721573906, Email: Marian@abc.com} >>> licitez:4040
+2020-09-09 20:12:38: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 20:12:23] /127.0.0.1:41760 {Name: Pete, Telephone: 0724144092, Email: Gigel@tuiasi.ro} >>> licitez:4540
+2020-09-09 20:12:38: [AuctioneerMicroservice]: Am trimis toate ofertele catre MessageProcessor.
+2020-09-09 20:12:38: [MessageProcessorMicroservice]: [09-09-2020 20:12:20] /127.0.0.1:41758 {Name: George, Telephone: 0721573906, Email: Marian@abc.com} >>> licitez:4040
+2020-09-09 20:12:38: [MessageProcessorMicroservice]: [09-09-2020 20:12:23] /127.0.0.1:41760 {Name: Pete, Telephone: 0724144092, Email: Gigel@tuiasi.ro} >>> licitez:4540
+2020-09-09 20:12:38: [MessageProcessorMicroservice]: Trimit urmatoarele mesaje:
+2020-09-09 20:12:38: [MessageProcessorMicroservice]: [09-09-2020 20:12:20] /127.0.0.1:41758 {Name: George, Telephone: 0721573906, Email: Marian@abc.com} >>> licitez:4040
+2020-09-09 20:12:38: [MessageProcessorMicroservice]: [09-09-2020 20:12:23] /127.0.0.1:41760 {Name: Pete, Telephone: 0724144092, Email: Gigel@tuiasi.ro} >>> licitez:4540
+2020-09-09 20:12:38: [BiddingProcessorMicroservice]: [09-09-2020 20:12:20] /127.0.0.1:41758 {Name: George, Telephone: 0721573906, Email: Marian@abc.com} >>> licitez:4040
+2020-09-09 20:12:38: [BiddingProcessorMicroservice]: [09-09-2020 20:12:23] /127.0.0.1:41760 {Name: Pete, Telephone: 0724144092, Email: Gigel@tuiasi.ro} >>> licitez:4540
+2020-09-09 20:12:38: [BiddingProcessorMicroservice]: Castigatorul este: /127.0.0.1:41760
+2020-09-09 20:12:38: [BiddingProcessorMicroservice]: Am anuntat castigatorul catre AuctioneerMicroservice.
+2020-09-09 20:12:38: [AuctioneerMicroservice]: Am primit rezultatul licitatiei de la BiddingProcessor: /127.0.0.1:41760 a castigat cu pretul:4540
+2020-09-09 20:12:38: [BidderMicroservice]: [41758] Rezultat licitatie:loser
+2020-09-09 20:12:38: [BidderMicroservice]: [41760] Rezultat licitatie:winner
+2020-09-09 20:12:48: [ChatMicroservice]: Au fost conectati toti userii la licitatie.
+2020-09-09 20:13:26: [BiddingProcessorMicroservice]: se executa pe portul:1700
+2020-09-09 20:13:26: [BiddingProcessorMicroservice]: Se asteapta ofertele pentru finalizarea licitatiei...
+2020-09-09 20:13:26: [ChatMicroservice]: se executa pe portul: 8888
+2020-09-09 20:13:26: [ChatMicroservice]: Se asteapta mesaje de la bidderi...
+2020-09-09 20:13:26: [AuctioneerMicroservice]: se executa pe portul: 1500
+2020-09-09 20:13:26: [AuctioneerMicroservice]: Se asteapta oferte de la bidderi...
+2020-09-09 20:13:26: [MessageProcessorMicroservice]: se executa pe portul:1600
+2020-09-09 20:13:26: [MessageProcessorMicroservice]: Se asteapta mesaje pentru procesare...
+2020-09-09 20:13:28: [BidderMicroservice]: 41788 M-am conectat la Auctioneer!
+2020-09-09 20:13:28: [BidderMicroservice]: 41788 M-am conectat la Chat!
+2020-09-09 20:13:28: [BidderMicroservice]: [41788] Astept rezultatul licitatiei...
+2020-09-09 20:13:28: [AuctioneerMicroservice]: [09-09-2020 20:13:28] /127.0.0.1:41788 {Name: Gogu, Telephone: 0723104404, Email: Andreea@yahoo.ro} >>> licitez:3494
+2020-09-09 20:13:30: [BidderMicroservice]: 41792 M-am conectat la Auctioneer!
+2020-09-09 20:13:30: [BidderMicroservice]: 41792 M-am conectat la Chat!
+2020-09-09 20:13:30: [BidderMicroservice]: [41792] Astept rezultatul licitatiei...
+2020-09-09 20:13:30: [AuctioneerMicroservice]: [09-09-2020 20:13:30] /127.0.0.1:41792 {Name: Bianca, Telephone: 0729047811, Email: Gigel@abc.com} >>> licitez:5556
+2020-09-09 20:13:45: [AuctioneerMicroservice]: Licitatia s-a incheiat! Se trimit ofertele spre procesare...
+2020-09-09 20:13:46: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 20:13:28] /127.0.0.1:41788 {Name: Gogu, Telephone: 0723104404, Email: Andreea@yahoo.ro} >>> licitez:3494
+2020-09-09 20:13:46: [AuctioneerMicroservice]: Am trimis mesajul: [09-09-2020 20:13:30] /127.0.0.1:41792 {Name: Bianca, Telephone: 0729047811, Email: Gigel@abc.com} >>> licitez:5556
+2020-09-09 20:13:46: [AuctioneerMicroservice]: Am trimis toate ofertele catre MessageProcessor.
+2020-09-09 20:13:46: [MessageProcessorMicroservice]: [09-09-2020 20:13:28] /127.0.0.1:41788 {Name: Gogu, Telephone: 0723104404, Email: Andreea@yahoo.ro} >>> licitez:3494
+2020-09-09 20:13:46: [MessageProcessorMicroservice]: [09-09-2020 20:13:30] /127.0.0.1:41792 {Name: Bianca, Telephone: 0729047811, Email: Gigel@abc.com} >>> licitez:5556
+2020-09-09 20:13:46: [MessageProcessorMicroservice]: Trimit urmatoarele mesaje:
+2020-09-09 20:13:46: [MessageProcessorMicroservice]: [09-09-2020 20:13:28] /127.0.0.1:41788 {Name: Gogu, Telephone: 0723104404, Email: Andreea@yahoo.ro} >>> licitez:3494
+2020-09-09 20:13:46: [MessageProcessorMicroservice]: [09-09-2020 20:13:30] /127.0.0.1:41792 {Name: Bianca, Telephone: 0729047811, Email: Gigel@abc.com} >>> licitez:5556
+2020-09-09 20:13:46: [BiddingProcessorMicroservice]: [09-09-2020 20:13:28] /127.0.0.1:41788 {Name: Gogu, Telephone: 0723104404, Email: Andreea@yahoo.ro} >>> licitez:3494
+2020-09-09 20:13:46: [BiddingProcessorMicroservice]: [09-09-2020 20:13:30] /127.0.0.1:41792 {Name: Bianca, Telephone: 0729047811, Email: Gigel@abc.com} >>> licitez:5556
+2020-09-09 20:13:46: [BiddingProcessorMicroservice]: Castigatorul este: /127.0.0.1:41792
+2020-09-09 20:13:46: [BiddingProcessorMicroservice]: Am anuntat castigatorul catre AuctioneerMicroservice.
+2020-09-09 20:13:46: [AuctioneerMicroservice]: Am primit rezultatul licitatiei de la BiddingProcessor: /127.0.0.1:41792 a castigat cu pretul:5556

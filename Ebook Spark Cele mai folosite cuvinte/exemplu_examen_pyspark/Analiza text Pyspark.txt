@@ -1,0 +1,1 @@
+Pornind de la un fișier text de tip Ebook să se identifice și să se afișeze cu ajutorul Spark utilizând limbajul python cele mai des utilizate cuvinte din text (se ignoră entitățile semantice de legătură).

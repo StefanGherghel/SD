@@ -1,0 +1,8 @@
+Utilizând algoritmul Map-Reduce (implementarea cu stdin/stdout), să se
+calculeze indexul invers pentru un set de URL-uri. Funcția de mapare
+va parsa conținutul fiecărei pagini web (se pot folosi modulele
+requests și BeautifulSoup) și va returna perechi de forma <word, {URL:
+1}>, unde valoarea 1 reprezintă o apariție a cuvântului pe pagina
+respectivă. Funcția de reducere primește toate perechile, sortează
+perechile corespunzătoare aceluiași cuvânt și emite o pereche de forma
+<word, {URL_i: count_word_in_URL_i, ...}>.

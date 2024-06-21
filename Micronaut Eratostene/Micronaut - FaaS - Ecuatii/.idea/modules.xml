@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Micronaut - FaaS - Ecuatii.iml" filepath="$PROJECT_DIR$/.idea/Micronaut - FaaS - Ecuatii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adt-consumer/adt-consumer.iml" filepath="$PROJECT_DIR$/adt-consumer/adt-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adt-producer/adt-producer.iml" filepath="$PROJECT_DIR$/adt-producer/adt-producer.iml" />
+    </modules>
+  </component>
+</project>
